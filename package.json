@@ -4,6 +4,7 @@
   "description": "Command line scripts that demonstrate how to use Ragie",
   "type": "module",
   "scripts": {
+    "cleanup": "tsx src/cleanup.ts",
     "generate": "tsx src/generate.ts",
     "ingest": "tsx src/ingest.ts"
   },
