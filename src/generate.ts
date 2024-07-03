@@ -4,7 +4,6 @@ import promptSync from "prompt-sync";
 const ragieApiKey = process.env.RAGIE_API_KEY;
 const ragieApiUrl = process.env.RAGIE_API_URL || "https://api.ragie.ai";
 const openAiApiKey = process.env.OPENAI_API_KEY;
-const partition = "v1";
 
 if (!ragieApiKey) {
   throw new Error("RAGIE_API_KEY is required");
@@ -40,7 +39,7 @@ while (true) {
       "Content-Type": "application/json",
       Authorization: "Bearer " + ragieApiKey,
     },
-    body: JSON.stringify({ query, filter: { partition } }),
+    body: JSON.stringify({ query }),
   });
 
   if (!response.ok) {
