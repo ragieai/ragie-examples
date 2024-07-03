@@ -4,7 +4,8 @@
   "description": "Command line scripts that demonstrate how to use Ragie",
   "type": "module",
   "scripts": {
-    "generate": "tsx src/generate.ts"
+    "generate": "tsx src/generate.ts",
+    "ingest": "tsx src/ingest.ts"
   },
   "author": "Bob Remeika",
   "license": "MIT",
