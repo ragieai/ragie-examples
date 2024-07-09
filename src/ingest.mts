@@ -5,14 +5,9 @@ import { fileURLToPath } from "url";
 
 path.dirname(fileURLToPath(import.meta.url));
 
-const ragieApiUrl = process.env.RAGIE_API_URL || "http://api.ragie.ai";
-const ragieApiKey = process.env.RAGIE_API_KEY;
+const apiKey = process.env.RAGIE_API_KEY;
 
-if (!ragieApiUrl) {
-  console.error("RAGIE_API_URL is required");
-  process.exit(1);
-}
-if (!ragieApiKey) {
+if (!apiKey) {
   console.error("RAGIE_API_KEY is required");
   process.exit(1);
 }
@@ -33,18 +28,21 @@ for (const file of files) {
 
   const formData = new FormData();
   formData.append("file", blob, file);
-  formData.append("metadata", JSON.stringify({ title: file }));
+  formData.append(
+    "metadata",
+    JSON.stringify({ title: file, environment: "tutorial" })
+  );
 
   const options = {
     method: "POST",
     headers: {
-      authorization: `Bearer ${ragieApiKey}`,
+      authorization: `Bearer ${apiKey}`,
       accept: "application/json",
     },
     body: formData,
   };
 
-  const response = await fetch(ragieApiUrl + "/documents", options);
+  const response = await fetch("https://api.ragie.ai/documents", options);
 
   if (!response.ok) {
     const body = await response.text();
