@@ -4,9 +4,11 @@
   "description": "Command line scripts that demonstrate how to use Ragie",
   "type": "module",
   "scripts": {
-    "cleanup": "tsx src/cleanup.ts",
-    "generate": "tsx src/generate.ts",
-    "ingest": "tsx src/ingest.ts"
+    "cleanup": "tsx src/cleanup.mts",
+    "generate": "tsx src/generate.mts",
+    "list-documents": "tsx src/list-documents.mts",
+    "ingest": "tsx src/ingest.mts",
+    "retrieve": "tsx src/retrieve.mts"
   },
   "author": "Bob Remeika",
   "license": "MIT",
