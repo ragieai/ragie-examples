@@ -1,0 +1,1378 @@
+
+Chamath Palihapitiya: Jake, Kyle, you have a really long nose here.
+
+Jason Calacanis: Thank you.
+
+Chamath Palihapitiya: On your on your left this
+
+Jason Calacanis: one here? The side? Yeah. Yeah.
+
+David Friedberg: Okay. Hold on one second. Do you
+
+Chamath Palihapitiya: see it, Nick? You see it? See that? You can see
+
+David Friedberg: Take care of it.
+
+Jason Calacanis: Every
+
+David Sacks: show, we have this issue.
+
+Chamath Palihapitiya: Every show, he's got all this, like
+
+Jason Calacanis: I'm getting old man hairs. I feel like sex.
+
+David Friedberg: You gotta get a grooming tool.
+
+Chamath Palihapitiya: I am tired of treasure hunting. Send me a work for what he is. --
+
+David Sacks: get a lawnmower.
+
+David Friedberg: Nance Kate makes 1. I'm gonna get it.
+
+Chamath Palihapitiya: Yeah. in a mirror, bro.
+
+Jason Calacanis: Can you come over on the way to Parker Freberg and help me landscape?
+
+Chamath Palihapitiya: Yeah. You're not coming to poker. Don't come to poker,
+
+Jason Calacanis: you said. If I'm landscape, can I come to poker?
+
+David Sacks: to let your winter ride. Rainman, David Sachs. We open Okay. So, Jay Cal, you're
+
+David Friedberg: gonna be a participant today. The world's greatest moderator is taking a week off to allow his voice to recoup, to recover, to heal, so he can come back blaring with his usual mid sentence interruptions and excellent moderating tactics next week. We
+
+Chamath Palihapitiya: --
+
+David Sacks: With his fog horn, leg horn, moderation.
+
+David Friedberg: We are gonna we are gonna miss you at the moderation. Welcome to the top 20. Saks,
+
+Jason Calacanis: you're welcome. Welcome to the top 20 podcast in the world.
+
+David Friedberg: Okay.
+
+David Sacks: Hold on. Who should be thinking, whom? I mean, you've been doing this for 10 years. I walked in here off the street. All of a sudden, we're top
+
+Chamath Palihapitiya: 20.
+
+Jason Calacanis: Yeah. Let me explain something Number 1 blog in the world I created with my guys. Engage it. Okay. Top 5 magazine in the world.
+
+Then I do a podcast with you 3 idiots, and all of a sudden, I drop down to top 20 in this medium. So
+
+David Sacks: Drop. What are you talking about?
+
+Jason Calacanis: Yeah. Exactly. A drop.
+
+David Sacks: This has been a b tested. No.
+
+Jason Calacanis: I mean, this week it started up as a yeast carpenter.
+
+David Sacks: you, but look at twist ratings compared to ours.
+
+Jason Calacanis: This week in startups is about startups. It is a niche audience by design, and it's the number
+
+null: one startup podcast in the world.
+
+David Sacks: That's what you wanted this show to be. No.
+
+Jason Calacanis: I didn't. This show is about all topics.
+
+David Friedberg: All topics part of
+
+Jason Calacanis: the show.
+
+David Sacks: Every time we try to talk politics, you're like, it's too much politics, Zach.
+
+Jason Calacanis: I think you're talking about Freightberg. I think you're talking about Freightberg.
+
+David Sacks: Let's focus on narrow legalistic tech issues.
+
+Jason Calacanis: That's true. You we had this discussion, Saks, And I said we should always do the top story of the week even if it's politics.
+
+David Sacks: And now you're taking credit for my insight about McLaughlin Group. I saw you on some pod. Who was it?
+
+Jason Calacanis: I absolutely designed this pod around McLaughlin. The fact that
+
+David Sacks: you -- -- design on McLaughlin Group? I already said McLaughlin Group.
+
+Jason Calacanis: Okay. It's possible for 2 people to have the same idea, Saxx. We both grew up on McLaughlin Group. That's why we're both tankorous assholes.
+
+David Friedberg: Moderator intervention, cut it out, No one is individually responsible for this podcast.
+
+David Sacks: It was Tim Ferriss.
+
+David Friedberg: Yeah. Tim Ferriss.
+
+David Sacks: Here's what happened. So I was on YouTube. And, you know, I'm not gonna watch some 2 hour, like, podcast with Jay Cal, of course. But for some reason for some reason to very
+
+Jason Calacanis: Let me check that.
+
+David Sacks: A clip 10 minutes of Jake L, and it would the the video is called the origin of the all in podcast. Oh, I
+
+David Friedberg: can't stand what he does. Oh god. Here we go. Can't Dan when he does that.
+
+David Sacks: Yeah. So I'm like, okay. Well, I gotta watch this.
+
+Chamath Palihapitiya: --
+
+David Friedberg: in the partnership agreement. He said, here's the the party line, and Jay Kal will not stick with it.
+
+Jason Calacanis: Yeah. Going to recreate and
+
+David Sacks: watch this. I got see this alternative reality that Jake has trying to create about the origin of the podcast.
+
+Chamath Palihapitiya: I wrote I wrote
+
+Jason Calacanis: in our lead maker history. Yes. And I changed.
+
+Chamath Palihapitiya: Yeah. The origin story that you signed up to. Are you saying you changed the origin story? No. The origin story
+
+David Friedberg: remains the same. No. It doesn't.
+
+Jason Calacanis: You called me after CMB's -- Okay.
+
+David Sacks: The origin story that he told in Tim Ferriss, which is, like, a 10 minutes story of how he created the whole thing, the concept to what's his is based on McLaughlin Group, which I have the most discussion about.
+
+Chamath Palihapitiya: --
+
+Jason Calacanis: concept is more, obviously, by default. how I moderate the program is by my design. Yes.
+
+David Sacks: You didn't come up with this concept.
+
+Chamath Palihapitiya: --
+
+Jason Calacanis: of your chagrin? Of course, I did. No. Of course, I designed my moderation.
+
+David Sacks: Who's the other moderation? -- first one who said we should record us having conversations at the poker table. No. That idea came from him. Right?
+
+That's why it's called the all in pod.
+
+Jason Calacanis: No. I came up with the name all in, number
+
+Chamath Palihapitiya: 1.
+
+Jason Calacanis: Number 2, which says I'd get a tape a pod because he came out of. Anyway, who cares? The pods here It's successful.
+
+David Friedberg: Well, if
+
+Jason Calacanis: no one cares
+
+David Friedberg: about it, why do you keep going on podcasts telling everyone that you're the mastermind of the all in pot?
+
+Jason Calacanis: People are saying Jake Howell. -- the game. Other podcasters. I'll explain to you. Other podcasters are in awe of my ability to moderate you three malcontents.
+
+David Sacks: You did not. have the idea for the force and based on McLaughlin Group. That happened that happened spontaneously as a result of the fact That no. Friedberg was, I think, the first guest. I was the second guest.
+
+Then we did the 4 of us together.
+
+Jason Calacanis: Okay.
+
+David Sacks: That was about your concept. It evolves 1, basically.
+
+David Friedberg: It was a jam session that worked out. That's it.
+
+Jason Calacanis: Fine. The way the the way I moderate this is of note. to the world's greatest podcasters. They wanna know, Jacob. How do you take 3 misanthropic malcontents and make them actually palatable to the world?
+
+And I say, you know what? because I am the world's greatest moderator. And someone like Tim Ferriss wants to know.
+
+Chamath Palihapitiya: Excuse me. Excuse me. What makes me a misshentropic malcontent? Exactly.
+
+Jason Calacanis: Just your behavior and worldview.
+
+Chamath Palihapitiya: What what is it? What is it? Describe that. What is my behavior, and what is my worldview?
+
+Jason Calacanis: Your absolute contempt for humanity.
+
+null: You're gonna discover everybody. No.
+
+Jason Calacanis: You're amazing. I'm it's a joke. It's called a joke. It's called a joke. It's called a joke.
+
+David Friedberg: Now you set him off, J. Cal. You really that that hurt. You should apologize.
+
+Jason Calacanis: It's called the joke. I think you guys are wonderful. think you guys were wondering
+
+Chamath Palihapitiya: --
+
+David Friedberg: Well, I may
+
+Chamath Palihapitiya: I may be misanthropic, but malcontent. I'm not --
+
+David Sacks: No.
+
+Jason Calacanis: Saxx and Frebrink are the malcontents. For sure.
+
+David Friedberg: I'm malcontent. I'm pretty damn happy. You're happy.
+
+null: The lamb descriptor anybody who knows you would ascribe to Friedberg was happy.
+
+Chamath Palihapitiya: No. I would say no. I think he's happy. He's anxious, but he's happy. Yeah.
+
+He's anxious but happy.
+
+Jason Calacanis: Did you see the roast? That was not a happy man.
+
+David Friedberg: That was tearing you up. That was funny. That was Aventist. And that were a big part of him.
+
+Chamath Palihapitiya: Yeah. That was venting. He was venting.
+
+Jason Calacanis: Yeah. That was rage. Vented. I'm not sure. -- rage.
+
+David Sacks: No. I think I think when Frever tries to be funny, it comes out kinda mean.
+
+David Friedberg: Yeah. Maybe that's -- It's
+
+David Sacks: a sense of humor and rage.
+
+David Friedberg: The only person that sets me off into making me unhappy is you, Jay Cal.
+
+Jason Calacanis: I mean, like, The floor request could go to therapy, or we could keep recording
+
+null: this podcast every week, which is cheaper. I think it's cheaper for us to
+
+Chamath Palihapitiya: just regrow the pod. You know what? I for one and thankful to whoever gave you whatever sickness you have that causes you to not be able to talk this week.
+
+Jason Calacanis: Okay. Great. Yeah. You're
+
+David Friedberg: talking a for a guy who can't talk. That's kinda I
+
+null: keep coming at me. Oh, I'm sick. Be nice
+
+Jason Calacanis: to me.
+
+Chamath Palihapitiya: While we're talking about all kinds of random stuff, The number 2 thing that I see in the what's happening tab on Twitter right now is how Ron DeSantis is getting blasted for banning AP African American Studies because he thinks it falls under the stop woke act. That's this, the headlines. It's going absolutely nuclear on Twitter right now. Here's some of the quotes, shocking. Ron DeSantis has banned all caps the teaching of AP African American Studies in Florida.
+
+Florida has gone from don't say gay to don't say black. Next tweet. Claiming it violates the stop book Act and has no educational value. Florida governor Ron DeSantis has banned AP African American studies from schools.
+
+David Sacks: The mimicking prediction right now. This will all redounce his advantage. The the same people who said that he was death scientist for basically not instituting COVID lockdowns. He was proven correct then they said that this bill that prohibited the teaching of gender fluidity to five year olds, they claim try to claim that was a don't say gay bill. 70% of Florida supports that that were down at his advantage.
+
+I don't know the story
+
+Jason Calacanis: behind this particular course,
+
+David Sacks: but if the question is whether CRT it's gonna be funded by the state, and he's preventing that. Again, I think that'll be a 70% popular issue. So let's just wait and see how this plays out.
+
+Chamath Palihapitiya: Fair enough. I just want to claim that my spread trade may be it's tough to be the leader in the Republican nomination process in January 2022. It's starting.
+
+David Sacks: Yeah. It's tough to be the front runner. It's tough to be the front runner in either party, but I'd say the bigger threat to DeSantis is there's a new poll where Trump came out on top. So Trump's still his biggest threat. Yeah.
+
+So, unfortunately, Jay Kalb may be right that The Republicans may do something stupid here and nominate a candidate who's, I think, less electable than scientists.
+
+Jason Calacanis: I actually don't take any joy in it.
+
+Chamath Palihapitiya: I actually I think Nikki Haley's gonna come out of nowhere and win this thing.
+
+Jason Calacanis: Well, it's possible. I, you know, I I really would like to see some non political non career politicians run for office, the Bloomberg, you know, sort of category. It feels like these career politicians are just really really bad at executing his gun bags.
+
+David Sacks: You know, who likes Nikki Haley? Who? Democrats. Democrats. You guys.
+
+Chamath Palihapitiya: Why? Why
+
+Jason Calacanis: do we like her?
+
+David Friedberg: I mean, she's polarizing. She's polarizing.
+
+David Sacks: No. She's a safe establishment Republican. who basically is not gonna put up any fierce resistance to what the Davos crowd wants to do.
+
+Chamath Palihapitiya: I don't think that's true. I think she was pretty --
+
+David Sacks: She's not going with her public nomination.
+
+Chamath Palihapitiya: I don't think she cares about Davos people to save her life. I think that she is a moderate reasonable person who had to govern in a southern state and got everybody on board. That's that's pretty crazy. She's a pro life person who negotiated a 20 week support for abortion in 2014. So this is a person that knows how to get stuff done.
+
+South Carolina happens to be the state that's actually at the leading edge of climate transition. She's had more jobs and more money coming into a southern red state of people and companies willing to build for climate change than any other state in the country.
+
+David Friedberg: Do you like her
+
+David Sacks: as a
+
+Chamath Palihapitiya: candidate? She's just she's so I I just think that she's actually like normal and sane and not an idiot. Would you vote for it?
+
+David Friedberg: Absolutely. Over Biden? Absolutely. Absolutely. Yeah.
+
+Interesting. SaaS.
+
+Chamath Palihapitiya: 100%.
+
+David Sacks: Yeah. Look. If you're really willing to vote for, then that's interesting.
+
+Chamath Palihapitiya: Absolutely, I would. She's, you know, she's young. Her parents had a small business. She was a small business person. it's tough to be a winner at all of those levels and she managed to do it.
+
+I mean, how do you as a brown woman get elected to governor of South Carolina and do a lot of really good stuff. That's kinda tough.
+
+David Sacks: Yeah.
+
+Chamath Palihapitiya: I don't know. I think she deserves a close look, and she's the only one that didn't count out to Trump. She was able to play the game, manipulate him, get him to be on her side, and then still told him to go pounce in. That's pretty cool.
+
+David Sacks: Well, a lot a a lot of governors managed to do that.
+
+Chamath Palihapitiya: I mean I'm saying I'm saying she got she she went to the United Nations. She did what she needed to do there. That's an important role at that time.
+
+David Sacks: Actually, Nikki Haley especially has said she will not run if Trump runs. So she's Koutow to Trump too.
+
+Jason Calacanis: She wanted to be his VP. Right? Like, she was trying to shank Pence. Right? That was her plan.
+
+David Sacks: Maybe it's a smart strategy but she said she will not run against Trump. The main alternative to Trump and the Republican party is DeSantis. And then I'd say the number 3 in the Republican Party after Trump and DeSantis Glenn Youngkin right now.
+
+Chamath Palihapitiya: Based on what metrics?
+
+David Sacks: Based on interests in the party. And and, you know, I've talked to people, and I think the polling will eventually reflect this. He's very talented.
+
+David Friedberg: Jacob.
+
+David Sacks: You talk about appealing to independence. He was able to win a blue state. Remember, Virginia went for Biden by 10 points. and Youngkin was able to win that state. If you ever listen in Kim campaign, he's a very talented campaigner.
+
+Chamath Palihapitiya: I think Youngkin is very, very talented. Don't get me wrong. And I think that he would be an extremely credible candidate for president. Here's the thing that Jankin will get destroyed on is He's literally not been in the job for but for a few, you know, 18 months, so he hasn't done anything. And I think that if it does boil down now it may not matter.
+
+Right? Because look. Obama was a senator for 2 years or whatever. Right? So it may not matter, but to the extent that Republicans demand some bona fides, I think that you'll see Trump and DeSantis attack Youngkin more viciously in a presidential primary, then they attack Hailey on that dimension of you have no experience.
+
+And it'll be hard for him to back it up.
+
+David Sacks: Just one final point. You know,
+
+Chamath Palihapitiya: Virginia has this -- -- the other side. That's it. Final final point.
+
+David Friedberg: We gotta we gotta get started.
+
+David Sacks: Final point. Virginia has this wonky one term term limit on governors. So you know, he's got no choice but to make a play in
+
+Chamath Palihapitiya: 2024
+
+David Sacks: because he's gonna be termed out anyway.
+
+David Friedberg: Okay. Jake Cal, as a lifelong independent who's only ever voted democrat, which of these republic can put it in?
+
+Chamath Palihapitiya: 25%
+
+Jason Calacanis: Republican, to be clear,
+
+David Sacks: is -- Yeah.
+
+David Friedberg: Sure. So which of these candidates would you go to?
+
+Chamath Palihapitiya: --
+
+David Sacks: for Republican one time? It's
+
+Chamath Palihapitiya: 12.
+
+David Friedberg: Yeah. No.
+
+Jason Calacanis: I I voted three times.
+
+Chamath Palihapitiya: --
+
+David Friedberg: did you hailie? You like playing Youngkin? Three times I voted for Republican.
+
+Jason Calacanis: I would like somebody who's younger. And actually, I've been quite influenced by your framing of a person who can control the budget and reduce spending. I do think it's kind of the most existential risk we have right now. So I might be moving to more of a single issue vote
+
+David Friedberg: for this presidential election. I love that issue. I love that about you now. Oh my god.
+
+Jason Calacanis: I just think, like, we we have to have somebody younger who is not going to bankrupt the company. And the more These candidates talk about social issues and not economic ones. I think it's a tell that they're not the right person for the job. That that's where I'm personally at. is that this country has a serious financial existential crisis on its hands, and we have to get off social issues.
+
+and we have to get on to financial
+
+Chamath Palihapitiya: --
+
+David Sacks: Exact third point. So I assume then you support the Republicans in this looming budget showdown.
+
+Jason Calacanis: Actually, do. Yes. I do think we should hold the line on spending.
+
+David Sacks: So you support the Republicans voting no on raising the debt ceiling?
+
+Jason Calacanis: Yeah. I actually do. I think we should start pumping the brakes on spending. And I do think the tea party Now that doesn't mean I like those candidates. They're kinda whackjobs, actually.
+
+Chamath Palihapitiya: But you think George Santos is a whackjob?
+
+Jason Calacanis: Listen. It's the Wackpack.
+
+null: The Republican Party has turned it to some crazy Howard Stern, Wackpack Saks is appalled by it. He just can't
+
+Chamath Palihapitiya: --
+
+David Friedberg: Some elements of both parties look that way.
+
+Chamath Palihapitiya: Would you would you ever invite -- -- to Los Santos to your house? Who would you invite okay. Actually, I have to steal this underwear. Who would do who would you be willing to host
+
+David Friedberg: a dinner for a trailer?
+
+Chamath Palihapitiya: It's not a fundraising dinner, just invite to the house. You you can pick between 2 people.
+
+Jason Calacanis: Oh,
+
+Chamath Palihapitiya: no. Alexandra Ocasio Cortez or George Campos. Who would you pick?
+
+Jason Calacanis: George Campos. Who do you -- Sure.
+
+David Sacks: I'd rather probably meet and talk to AOC -- Of course.
+
+Chamath Palihapitiya: --
+
+David Sacks: because it would be interesting. Do I wanna fundraise for her or no? But
+
+Chamath Palihapitiya: -- No. No. I'm not asking fundraising.
+
+David Sacks: Who -- Okay.
+
+Chamath Palihapitiya: --
+
+Jason Calacanis: Gillette in the door. front door. Unlock the front door for -- Unlock
+
+David Sacks: the front door of -- -- to AOC. Yeah.
+
+Chamath Palihapitiya: What would you do to George? Would you not even return the email? If he said, David, I'm in town. wouldn't let him in the main house for dinner. Don't let him in
+
+Jason Calacanis: the main house.
+
+David Sacks: I wouldn't wanna do it with him. Yeah. He might he might steal the silverware or something.
+
+null: It's so crazy.
+
+David Friedberg: I mean, it's so nuts. Listen. Hold on. Hold on. Hold on.
+
+We gotta get started. As your moderator, I'm gonna try and keep us on track. Good luck. Yeah. No.
+
+Look. It's a it's a energetic day. I appreciate I appreciate my cohosts and their enthusiasm. We didn't
+
+David Sacks: give Regina enough recognition for supporting the Republicans in this budget showdown. I mean, I'm, like, blown away by this.
+
+David Friedberg: I think it's great. I think it's great. As as you guys know, just to restate, it's my number one concern on Earth today. Yep. And I I think that the importance of this topic really needs to kinda rise above politics.
+
+Jason Calacanis: Of all the things you said, Friedberg, in the last, like, 6 months on this program. It's the one thing that stuck with me and it's one thing that has, like, actually now I realize is the most important thing for this country. is fiscal responsibility, austerity measures and looking at how we're spending money and looking at immigration and looking at economic velocity and employment and competing on the world stage with a solid balance sheet is the balance sheet is how you compete. The balance sheet is how you compete.
+
+David Friedberg: I think it rises above social issues, and it rises above climate change. It dwarfs your stuff. You you cannot address climate change or social issues. or infrastructure or unemployment unless we have the ability to operate as a country over the long term and have the ability to have the the continuing credit of the United States dollar. And that's why I think it's so important.
+
+Jason Calacanis: Freebrook, I'm dealing this with with startups I have right now, and I tell them, The balance sheet is how you compete. If your balance sheet is flipped upside down and you're gonna be out of business in 9 months, you're not competing with these 2 other companies in your sector. You have to have a strong balance sheet, take the austerity measures, make the cuts, and then compete with a strong balance sheet. It's just so obvious. This country's balance sheet is getting flipped upside down.
+
+And we are gonna have so many
+
+Chamath Palihapitiya: --
+
+David Friedberg: Yeah.
+
+Chamath Palihapitiya: --
+
+Jason Calacanis: very complex second and third order effects With the interest payments
+
+Chamath Palihapitiya: If you value austerity, if you value austerity, if you look back in history and you actually ask of the Prime ministers are presidents of various countries, particularly 1st world countries that have actually had an impact in implementing austerity. You know what? The unifying thing that I can say is, women do a much better job than men. Okay? You want a parody?
+
+You're better off with with Margaret Thatcher. Margaret Thatcher.
+
+Jason Calacanis: with a
+
+Chamath Palihapitiya: with then with a dude. AK, Nikki Haley, enter station.
+
+Jason Calacanis: I know. I I'm I'm totally up to
+
+David Friedberg: Nikki Haley. Look. It's a it's a very hard position to be in as a politician. because you have to position your objective as one of taking things away. And the primary way to get in a democracy just like in junior high when you run for president of the junior high class is I'm gonna make the vending machines free.
+
+You get elected. And when you run-in politics, you always promise your constituents what they're gonna get that they don't have today, and that's the model for getting elected. Whatever the issue is of the day, whatever the issue deserves a aid, whatever. It's all about what I'm gonna give you that you don't have today. And so to flip that conversation around we all have to sacrifice together.
+
+For the long term viability of our economic prosperity, we need to do we need to give up the following things. That is a very hard platform to run on when someone on the other side of the podium on the other side of the stage is saying, I'm gonna give you these 10 things. and it's very hard to get elected. And that's why democracies ultimately eat themselves. And I forgot who said it, but, ultimately, all democracies end up realizing they can vote themselves all the money.
+
+And then you have this big cycle.
+
+David Sacks: And that's basically the biggest problem.
+
+Jason Calacanis: Republicans did the most brilliant thing ever recently. They moved from stop the steal to stop the spend. This is a genius they may stumbled into. Nobody wants to hear them talking about the election being stolen. That's complete nonsense.
+
+But stop the spend. We all understand that. Everybody is seeing it in their own personal balance sheets. They're seeing it in their companies. They're seeing it in their families.
+
+They're seeing it with their mortgage payment. They're looking at their, you know, college tuition bills. They're looking at their car payments. going from 400 to
+
+Chamath Palihapitiya: $700
+
+Jason Calacanis: and they're seeing what variable interest does, we have variable interest that this stuff is gonna skyrocket. Whether it's Elance payments for Twitter or your payments for your mortgage or our country's payments for our debt, we have to stop the spend.
+
+David Sacks: You turn it to effective interest rates.
+
+David Friedberg: Yes. Yeah. But, guys, let's just continue the conversation and talk a little bit about this World Economic Forum gathering that that took place in Davos. I know you guys wanted to to talk about it this week.
+
+David Sacks: Kinda just applaud Jake Hall's intellectual honesty. I'm, like, blown away right now.
+
+David Friedberg: Well, because he's sick. Okay. So look. No. It's because I'm not moderating.
+
+Jason Calacanis: When I'm moderating, I'm always trying to get the best out of you sex.
+
+David Friedberg: The budget conversation is an important one as it relates also to the global economy and growth. So Davos took place, you know, over this past week just so everyone knows. And I remember you know, working at Google
+
+Chamath Palihapitiya: 2004.
+
+David Friedberg: I remember, like, how exciting it was for the executives to kind of start to transition into the Davos stage. it became this moment where you're kind of finally on the world stage. It's an exciting moment for CEOs, for world leaders, for global economists to get together, talk about the state of the global economy, where the world is headed, what we can and should be doing about it. And Davos is also this this place of pride and prestige for being invited and being a part of the party, the global elite party as some people are now calling it. And that's what I think is the important conversation.
+
+is that the World Economic Forum gathering in Davos has recently been cast as this gathering of the global elites, those who are trying to take control and run the world as they see fit. And, Saks, I'd love your point of view on how that transition has happened. Because one of the important ways that the Davos gathering has been cast and the World Economic Forum has been cast is in the negative light of being globalists. And globalism has had a really important role in driving global economic growth and prosperity. And it has had these adverse effects in the US as we've seen with wealth inequality, loss of jobs, offshoring, gutting of industries, and so on.
+
+I think that there's a really important way that Davos has been politicized, but the risk of that is significant. Because if we do lean into this globalist notion and say it's all about elites trying to take control of our world, and we all become isolationists that countries around the world can suffer deeply from the economic consequences of that shift. So maybe, Saks, you can kick this off. And especially in light of our conversation today about the need for economic growth and the reduction of global debt, to support, you know, a more prosperous world in the future. This idea that right now, we're talking about Davos in the World Economic Forum as a gathering of global elites.
+
+And maybe, Saks, you can kinda give us a history and the point of view on how that division's come about?
+
+David Sacks: Well, it's a meeting of of Global Business And Government Leaders So they are the elites. I mean, you add them all together and they do control a substantial portion of the world economy and most of the you know, nations with the biggest economies. So there's no question. These are some of the most important people in the world. A bunch of the articles coming out of Davos reported the somber mood and tone of the conference and the level of anxiety and worry was very high.
+
+And I think that for a brief moment, it looked like these people were staring in the mirror and realizing that their management of the global economy over the last couple of decades has been a bit of a disaster. I mean, you do have rudeness deficits and debts piling up in both the US and across the world. I mean, like, 350%. debt to GDP globally. So we've talked about that.
+
+You've got this war in Ukraine that I and many people around the world think was easily avoidable and was a diplomatic failure. You're coming off of 2 years of badly botched COVID mismanagement. where the governments of the world pursued a horrible policy on COVID and made everything worse. You've got decades of energy policy promoted by the World Economic Forum where they wanna get people off fossil fuels and natural gas and get them on to less dense, less reliable energy, including promoting things like organic farming in Sri Lanka, which we talked about on the show caused their economy to collapse. You've got the World Economic Forum promoting ideas like you're gonna owe nothing in the year
+
+Chamath Palihapitiya: 2030,
+
+David Sacks: and you're gonna be eating insects because no one should be eating meat. So you've got these like wacky, extreme, you know, environmentalist ideas and anti capitalist, anti property ideas coming out of Davos. So I think the whole thing's been a bit of a disaster. And for a brief moment, it looked like these people, again, were self reflecting on their role in creating these disasters. But, of course, the tone quickly shifted to blaming disinformation on social media as the root cause of all these problems as opposed to their decades of decision making running, you know, the leading nations of the world and the leading companies of the world.
+
+And I think that the blame is properly put not on social media, but on these leaders for making, you know, bad decisions.
+
+David Friedberg: Do you believe in the benefits of global trade where countries trade with one another and shift the sourcing of supply and labor to the cheaper source so that the buyer can benefit from having things at a lower price, and ultimately, the global economy grows as kind of being beneficial to the US over the last 30 years or net negative because we talked, you know, about the the obvious consequences of global trade where we've had industries gutted in the United States, and now we're trying to onshore them again and build redundancy and so on. But that's becoming very expensive and ultimately leads to the inflation of goods and services. And so as you look at kind of the the
+
+Chamath Palihapitiya: --
+
+David Sacks: Yeah.
+
+Chamath Palihapitiya: --
+
+David Friedberg: the positive agenda of the World Economic Forum over the last 30 years being about improving global trade and global relations to enable global trade. Are you an anti globalist? And, you know, do you start to see yourself falling more in that camp as you see and hear more of what comes out of Davos and from these organizations like them?
+
+David Sacks: Well, look, all economic prosperity comes from trade. If we didn't have trade, then we would all be subsistence, farmers, and hunters, and gatherers. So we basically specialize in something and then create an overabunds to that and trade it for the rest of our necessities. The issue is that trade Not only creates prosperity, it creates dependencies because you're dependent on the people you're trading with. And also it has distributional effects in terms of geopolitical consequences.
+
+So trade with China has created some prosperity, but it's also hollowed out. the American manufacturing sector while also making China very rich, which has basically turned China into a major geopolitical competitor for the United States. States. So I'm not like a free trade fanatic. I mean, I understand the ways that trade creates wealth, but I think it can also create these downsides that have to be managed.
+
+And the fact of the matter is that this unfettered free trade ideology contained the seeds of its own destruction because all the revisionist powers who are seeking to revise the US led global order, they were basically enriched and built up by the very free trade ideology that Neo Liberals were promoting. So this neoliberal world order has kinda created the seeds its own destruction. I think that it would have been much smarter for us 2 decades ago to be much more restrained in the China trade and to not throw up in our markets to Chinese products. But you basically gave them MFN status. This is back in the early 2000, and it was a bipartisan project and a bipartisan decision.
+
+But the result of that has been the rapid rise of China at the expense of our manufacturing sectors
+
+David Friedberg: to the benefit of our consumer class. Right? I mean, we do have $600 Iphones because of it, and we do have cheap TVs. And there has been a consumer market that's demanded these low priced goods to
+
+Chamath Palihapitiya: --
+
+David Friedberg: Yeah. -- keep a little better life. Right? Like
+
+Chamath Palihapitiya: --
+
+David Sacks: So yeah. But so so everyone gets cheap goods at Target, but in exchange for that, we now have a real pure competitor to the United States, which is capable of disrupting, let's say, our privacy in East Asia and, you know, is creating a much more challenging world. So look, I I can understand the reasons why people bought into this 2 decades ago, but I think that if we had it to do all over again, I think most people would recognize that we should not have given China permanent MFN status, and we should have been more temperate in our willingness to throw up in our markets to these countries.
+
+David Friedberg: do you think that the World Economic Forum has kind of transitioned into this kind of neoliberal organization now that's promoting these neoliberal beliefs that aren't really tied to the original construct of global enabling and supporting global trade and supporting the global economy and creating more prosperity and security around the world.
+
+Chamath Palihapitiya: I think it appeals to the insecure overachiever elite. Yeah. Now nobody building anything really gives a shit about Davo nobody is thinking what's going on. Nobody even knows when it happens. Right.
+
+So who cares about it? People who like status and went to fancy schools and wants to feel like they're in the club and that's how they've made it is going to this place which underneath is a membership organization where people pay based on the number of people that get to go. So is it really that important? substantively no, but overachieving surplus elites in the west really value the signal that it represents to other overachieving surplus elites in the West. So that's what Davos is.
+
+That's what the Allen and company conference has become. A lot of these things started off much purer than what they are today, but these are all membership driven revenue generating efforts. In 30 or 40 years, the all in summit will probably become that too. It's just the nature of things. So I wouldn't spend so much time focused on a group of people getting together.
+
+The funniest thing about Davos that I saw was 0 hedge. which said that the amount of prostitution is at record levels in Davos. And so it just kind of boils down to what it is, which is like any other conference. It's just happens to be with more security guards than less security guards. And the same stupid stuff happens at Davos that happens in Vegas at name your conference.
+
+CES. It's just a different kind of attendee. So I think the bigger thing is that We are learning that the world tends to have these policy perspectives that swing in a pendulum. And the problem with the pendulum is that it it is at extremes. And Saks is right.
+
+We went from an extreme where we were very closed off and we were essentially subsistence farmers all of us were. And then the pendulum has essentially peaked probably in the mid teens of this decade or of this century where we realized too much globalization actually follows out local economies. So we need to find the equilibrium point. and that inherently has more inflation, that inherently has higher prices, and that inherently has slower progress but more consistent progress that benefits more people. And this is what is so ideologically disruptive to again surplus elites because they need the $600 iPhone.
+
+The idea that they can't upgrade every year drives them into such a tizzy that they need to export all the jobs. Whereas a $1000 iPhone or a $1500 iPhone, may just mean that your upgrade cycle is 2 years and just ask yourself, how many times have you upgraded as soon as the phone came to realize, man, this phone is actually worse than the previous version. And it probably could have just waited. And there's a lot of work that actually goes into building these things to actually make them better So all you're doing is you're giving up optionality. You're allowing your brothers and sisters to struggle to basically feed the profit motives of one company.
+
+That in hindsight doesn't need to happen. So there's an equilibrium, and I think that these next few decades will be about finding it, we have decided it's categorical, that that level of globalization that we have had, this unitary singular monocultural way of thinking about things, is over. And David's right. It's because that system has created too many threats to the hegemony that brought us there. Jacob, do you That's a good thing I think in general.
+
+Yeah. It'll be it'll be more prosperity for more people, but it'll be slower and it will create points of friction that are represented in inflation and higher prices.
+
+David Friedberg: Right. That's right. So as Jay Kal, as, you know, Tamov points out, like, if you're upgrading every 2 years instead of 1 year, your economy doesn't grow as fast. You have less spending. Yeah.
+
+If the price of things go up, you have inflation. The net cost of deglobalization is higher prices and lower economic growth. That's just fundamental kind of macroeconomics No. That's not true.
+
+Chamath Palihapitiya: That's not true. Because the de globalization in an individual economy will actually create GDP because you'll have to rebuild the things that you use to import.
+
+David Friedberg: That's right. Yeah. And over a period of time, theoretically, you could catch up and accelerate. But, Jake, how like, when you weigh this conversation about Davos and globalization -- Yeah.
+
+Chamath Palihapitiya: --
+
+David Friedberg: and US security against the one we just had, which is why I wanted to talk about this, we're running into a debt crisis We have limited spending capacity. We have a significant amount of investment needed. If we are going to cut global trade ties that we've depended on historically and start to build redundancy. Can we afford this as a country? Can the west afford this?
+
+given the economic slowdowns and inflation right now. And, you know, how do we balance kind of these conversations against our domestic challenges, economically.
+
+Jason Calacanis: Davos has a a pretty serious PR problem. They have dubbed themselves, like, essentially a self appointed Illuminati for the rest of us and that they're gonna set some global agenda. I think this year's agenda was like finding the future or defining the future. Nobody asked these people to be in charge. And if you look at what's happened in the world, the chaos of COVID, And you look at what's happened in terms of energy policy in Europe.
+
+And then this obsession with social issues and being told, you know, these farmers, these truckers, you're bad people, you're not woke, whatever it is. I think the public looks at Davos as the manifestation of these global elites who are lording over them some master plan, whether it's real or not, that they're not part of and that doesn't take them into consideration. And that takes into consideration only their profits And when you actually peel it back as Chamath correctly pointed out, Davalos is a huge grift. They they recruited me to be part of their world leaders 15 years ago. After I had sold -- Did you go?
+
+Chamath Palihapitiya: --
+
+Jason Calacanis: my second company. And I met Klas, the guy who runs it, at some New York 4 Seasons event, and then I got the bill. And to be a world leader
+
+Chamath Palihapitiya: --
+
+David Friedberg: You got the bill.
+
+Chamath Palihapitiya: was $40,000.
+
+Jason Calacanis: And I was like, what? A global future leader. I don't know what that means, but I'm not giving you $40,000. And
+
+Chamath Palihapitiya: then -- You to pay? You had to pay to be a global -- What? -- future leader.
+
+Jason Calacanis: And you didn't have to pay for a $6000 Ted ticket at the time. This was
+
+Chamath Palihapitiya: 40
+
+Jason Calacanis: large. And I just thought, you know, this is not for me. And Watnage of. I think people would much rather see some resiliency in the supply chain and they would rather see the origins of COVID and why we spent 2 years in a lockdown? And was that a cover up of the United States funding gain of research, you know, being done in Wuhan, like and and why are we shutting down nuclear power plants and what exactly is the energy policy in Germany, people are looking at incompetent elites.
+
+going to Davos, having a big party and then setting an agenda for them that they don't understand or want. And I think this is where you know, the the the contempt for Davos is peaking this year, and it should. If you're being invited to Davos, And other people are not being invited and they don't have a seat at the table and a voice at the table, you can tell that all the journalists there are on an access journalism pass. What does that mean access journalism, they get to come there and they get to hang out with elites. If and only if their coverage fits a certain profile.
+
+And if you find me the top 10 most critical anti globalization journalists in the world, I can guarantee you that they don't have credentials. I think it's like a bankrupt organization that should just be shut down and the people who are going there are involved. No. I think it's culturally bankrupt.
+
+David Friedberg: You guys have someone distain. It's interesting.
+
+Chamath Palihapitiya: No. I do.
+
+Jason Calacanis: I think it's the thing. It's, like, question. Not what the world wants right now. The world wants transparency and the world wants ownership of all the screw ups. You know, from COVID
+
+Chamath Palihapitiya: --
+
+Jason Calacanis: Yeah. -- to energy policy, we want ownership of those issues. Not a bunch of elites drinking champagne.
+
+Chamath Palihapitiya: I'd rather spend a week with entrepreneurs or frankly spend a week with my kids or Frank -- Yes. -- spend a week playing poker. with my friends. Of course. Let's do it.
+
+There are there are, like, umpteenth things that are above the list. So it's kind of like, let them get together. I think it's fine for them to get together. They should do it. I just think that if you're not there, I would not weigh these things so heavily because it speaks more to your own insecurity than it does to their actual influence on things.
+
+David Friedberg: Yeah. The term elite is an interesting one. You you companies need a CEO to run the company. It's not run by 10,000 employees, and governments need a president to oversee the government. And I think the idea that some small number of people that are in charge getting together is now being cast as an elite gathering, and elitism in itself is the failure is I think -- I don't think it's
+
+Chamath Palihapitiya: an elite gathering. I think it's very important to get this nuance right. It's a gathering of elites, and that's very different than an elite gathering. An elite gathering is when, like, Michael Jordan and LeBron James and Steph currie get together and work on their basketball game. That's an elite gathering.
+
+A gathering of elites is what's happening in Davos.
+
+Jason Calacanis: It's fair point.
+
+David Friedberg: But they are the presidents of their companies and the presidents of their countries.
+
+David Sacks: So I would differentiate between the people who are merely attending or paying the
+
+Chamath Palihapitiya: $40,000.
+
+David Sacks: Right. You were probably a bunch of hangers on.
+
+Jason Calacanis: It's not 250, by the way.
+
+Chamath Palihapitiya: $250,000. 250
+
+David Sacks: yeah. Anyone willing to pay that is, like, you know, totally an insecure, you know, surplus elite.
+
+David Friedberg: By the way, I just got back from Davos.
+
+David Sacks: Oh, you did? Okay. Well, congratulations. Let's get on you, though.
+
+Chamath Palihapitiya: Right. Yeah. Go ahead.
+
+Jason Calacanis: Let's get on you.
+
+Chamath Palihapitiya: Did you spend your own money or your LPs money? No.
+
+David Friedberg: I didn't got a telephone money. Oh my lord. If I meet one person that went to Davos, it spent their own money. It's, like, probably none.
+
+David Sacks: Right. Exactly. So then there's a the hanger's on your $150,000 to feel important. But then there's the people who are invited who probably don't spend any money who are basically speaking. Right?
+
+And You gotta say that the the group of people who are speaking at Davos individually and collectively are quite influential. They are the leaders of Countries and and Fortune 500 companies.
+
+Chamath Palihapitiya: Sure. But you can agree that they literally don't say anything that's noteworthy. they're not allowed to.
+
+David Sacks: They're not saying anything that's that different of what they would say the previous week or the following week. So but it's
+
+Chamath Palihapitiya: --
+
+David Friedberg: It's a forum. It's a platform for today.
+
+David Sacks: It's a it's a 4 yeah. It's a
+
+Chamath Palihapitiya: 44.
+
+David Friedberg: Let's be able to get
+
+David Sacks: to to yeah. To get together. Look. In terms of the critique of it, Friedberg, you asked how far back does this go. It's this is not like a new thing.
+
+The the term Davos man was coined back in 2004 by a Harvard professor named Sam Huntington, who wrote a book called Class Civilizations. He's the press of international relations at Harvard. And he coined the term Davos man to refer to a globalist who, quote, had little need for national loyalty who viewed national boundaries as obstacles that are thankfully vanishing. That's how Huntington defined Davos man. And there's been a reaction to these Davos men that's been growing for a couple of decades.
+
+I mean, obviously, the election of Trump was a reaction to that. Brexit was a huge reaction to that. And I think that the resistance to the imposition of their Again, they're they're globalist policies, which I guess you could define as believing in this, like, borderless world, you know, economically and politically I think that's been receding in favor of more nationalist leaders who wanna promote their own country's interests. And I think that that trend's gonna continue.
+
+David Friedberg: Well, Shamal, let's let's transition this to the the broader question that I think we got into it a couple episodes ago on how can we afford this transition if there is this mounting kind of trend against globalization that's mounting, deglobalization movement and effort, particularly in the US, And again, as Saks pointed out, global debt to GDP is something like 300 to 350% depending on how you count. And we're running into a debt ceiling here in the US. I guess the question is, how do we afford to build the infrastructure redundancy and make the investments at home to replace global trade, can we afford to do it? And how's this gonna play out as we run into this, you know, debt ceiling vote?
+
+Chamath Palihapitiya: I don't think that's the right question. I think the inverse of that question. How can we afford not to? With the amount of discontent and the amount of economic strain that people feel, If you want to really quell populism, you're gonna have to create economic vibrancy at home. When people are making money and they find its purpose, They're less agitated.
+
+They're not storming the capital. They're not electing fringe candidates. They're not doing domestic terrorism, they're just going to work and building a life. Right? We know that.
+
+So how can we afford not to? How can we afford not to, like, bring back jobs to the heartland of America? So the reality that I have and I think a lot of people have is that this debt to GDP thing is a bit of an intellectual red hearing. And the reason is people talk about this thing constantly in these absolute terms with no historical precedent that relates well to our current moment. There is no magic number at which thing this experiment that's called America fails.
+
+So I think that you have to be a little bit more intellectually honest and say that at best, it's a relative problem. And it's relative to the countries that have already established dominance of which there are 8 or 9, And then the emerging economies and then thinking about what critical things will they bring to the table in 15 or 20 years from now. And in that context, I think that people will him and but ultimately they'll capitulate. They will raise the debt ceiling and they'll continue to fund this transition away from globalism. And I think that's the argument that look at the Republicans over the line because it's gonna bring a lot of spending and stimulus and jobs to frankly a lot of red states that would otherwise kind of continue to wither and die on the vine.
+
+David Friedberg: I think here's my biggest concern. We're either trying to walk a tight rope or there's no tight rope to walk. And If we make these investments and they're not economically viable investments, it's a path to ruin. And what I mean by that is if we're building factories, manufacturing facilities, infrastructure that relies on yesteryear's technology and systems of production and and kind of economic systems. And there are alternatives that are competing on a global stage that are better, more productive more advanced, then we lose.
+
+And we've made an investment in a negative ROI way. But hold on a second. Can I
+
+Chamath Palihapitiya: ask you a question? Yeah. See, when when you say that though, you're making a very basic assumption, which I think you can question, which is you are underpinning that on fundamental economics that can change if we choose to. For example, let's take like natural resources. Okay?
+
+Every time you do a plan, The industry, and I define the industry as every for profit company and Wall Street and the debt markets, they refuse to underwrite this thing at a higher cost of capital. They use a whack of 6 or 7 or 8, and they will fight tooth and nail to use the smallest discount rate possible because it allows them to capture more of the profit dollars. But If you actually had a realistic whack of like 10% on an on an massive infrastructure project, guess what? You're actually pretty equivalent to a government. And in fact, in many cases, the government becomes cheaper.
+
+So I think the thing that is worth debating, and I'd like your reaction to this, it's not that what you're saying. It's we refuse to change the guardrails on our profit making ability. And if you extended the window, if you change the discount rate, if you said PEs can be different, you would have a very different economic specification for what we just said. It completely changes a 100 basis points, changes everything you're saying by tens of years.
+
+David Friedberg: One way to describe that, yeah, is another way to reframe what you just said is that the useful lifespan of an investment isn't 40 years or 50 years, but it may be 12 years. And if you if you recast the investment decision as this has to be a 12 year return instead of allowing it to be modeled as a
+
+Chamath Palihapitiya: 40
+
+David Friedberg: year return, then you start to really filter out a lot of the nonsense. And you can actually see real payback. It doesn't make sense to spend a
+
+Chamath Palihapitiya: $100,000,000,000
+
+David Friedberg: on a train to take people from LA to Fresno or whatever craziness the the California high speed rail program has turned into. It was originally, like, a $1,000,000,000 to to San Francisco. There was economic justification to get payback on a $100,000,000,000 or whatever it's ballooned into. the whole system should be shut down. So I guess there's a from a policy perspective and accountability framing that's missing, but also bringing in the time horizon on which we need to get paid back for these things.
+
+My point was that in China and I've I've made this point many times, But I just think it's a really important one that'll play out over the next couple of years. They're building 450 nuclear power plants. They're gonna get the cost of industrial power below 5¢ or 4¢ a kilowatt hour, and they're electrifying all their factories. As they do that, it's no longer a unit of human labor, that's needed to produce goods, it's a unit of electricity. And if they're driving down the cost of electricity and all products can be made using electricity, have a huge economic advantage.
+
+Chamath Palihapitiya: It's not the cure all that you think that is. Even if you have free energy, you have to think about the inputs. And the thing that China no.
+
+David Friedberg: Sorry. I I'm not talking about energy. I'm just saying a general framing. Like -- No.
+
+Chamath Palihapitiya: No. I understand. I my point being, like,
+
+David Friedberg: the investments we should be making are where is the puck headed Not where has the puck been. No.
+
+Chamath Palihapitiya: No. So I just I just wanted to comment on where the puck is heading. Even if energy is 0 in China, you have to think about inputs, meaning factories make things with inputs. And if you look, for example, in natural resources, the inputs by and large don't exist in China. And so all I'm saying is that all of these inputs, whether, again, you can take natural resources that proliferate massively in the United States.
+
+It turns out that India is utterly, utterly, utterly poorly addressed in a geographical survey perspective. And we're finding that India's raw resources are off the charts. Okay? There are certain places in Africa, tons of stuff in Indonesia and Australia. All of those things may not have to go to China because there are subsidies or there are equivalently cheaper decisions that governments can make so that they choose not to send it.
+
+And all of a sudden, all of that spending doesn't matter as much because the Australian government makes a trade off that says, you know what? I'd rather have these jobs here and I'm willing to have a longer payback cycle for these jobs to be here than instead of ship it to China. And he they tell the they they tell the Australian citizens. I'm sorry, guys. But you're gonna have to replace your car every 7 years as opposed to every 5.
+
+I hope you're okay with that, but that'll mean full employment and it'll prevent fringe candidates and populism. And let's go forward.
+
+David Friedberg: Where do you invest?
+
+Chamath Palihapitiya: I am investing I am investing a lot of money. In those places that control the natural resources that are poorly understood meaning there are places like India where Our geological survey capacity is relatively naive and it turns out that in critical parts of the energy supply chain or other places, they can play a huge role. And the Indian government's cost of capital has an element they're sophisticated enough to add a an element to the formula that accounts for full employment. If I build it in this state and if I try to get this many jobs created, The full circle feedback of that allows me to actually transfer price it into the Indian market at this price, which is cheaper than anything that China can do. even at 0 energy.
+
+That's the kind of sophisticated decision making that is emerging because of this d globalisation trend. And it's happening everywhere. So the Indians are doing it, the Germans are doing it, and then the US is doing it. And then on top of that, what they're what they're doing in terms of game theory, which I think is even more is they're not letting China be alone. They're actually now slowing China down.
+
+Because China turns out actually needs inputs from these western economies, and they're like, we're just not gonna give them to you anymore, so do the best you can. For example, in semiconductors, the Dutch, the Germans, the Americans, we've now essentially embargoed all of our most sophisticated equipment from ever getting in there. That will increase even with zero energy the cost of what comes out of there. And that will balance the playing field so that the Germans, the Dutch, the Americans, can bring other partners in at a different cost of capital to make it economically neutral and at parity. And the reason they'll do it is to create jobs for Americans or the Dutch or for the Germans.
+
+Jason Calacanis: Okay. I think the most -- Yeah.
+
+David Friedberg: Go ahead, Tim.
+
+Jason Calacanis: Go ahead. -- Freiberg. I I I just I I think the most important thing here isn't, like, energy I don't think it's infrastructure. I don't think it's natural resources. At least for America, it's entrepreneurs.
+
+And and that's what it's always been for this country. and its immigration is the silver bullet here and inspiration and and the freedom that this country has for entrepreneurs and founders to pursue a vision to start a company. That's why we've won so big historically. is the the combination of immigration and the inspiration that these entrepreneurs do on a global basis to get more entrepreneurs to come to this country to code to Stanford, to start companies. And that's why China is now losing.
+
+They cribbed this incredible formula we had of letting Jack Ma do Alibaba, and then they decided to, for whatever, you know, insecure or stupid reason or pragmatic reason, to consolidate power. And that's what will push the world forward and and make our country thrive. We have to fix immigration. We have to keep letting entrepreneurs Define the future because the government can do so much. They they can underwrite a couple of chip factories here or there.
+
+sure we could put money into nuclear or fission or fusion and whatever the next technology is, but you need a singular person who wants to make it their life's mission, who wants to have their sense of pride and innovation push the world forward, and those people are rare. And we are in a competition globally that we are not focused on that we need to get refocused on to recruit the greatest minds in the world who want to change the world to do it on American soil.
+
+David Friedberg: I do not disagree with you, Jay Kal, I think, you know, to my earlier comment about how do we walk the tight rope of the Debt Burden, the de globalization, and populism movements. And the and the the challenges and opportunities ahead, it has to come through innovation. I think that's how you You have to invent a new tight rub, basically.
+
+Jason Calacanis: I think the challenge though is, Friedberg, that it takes a recognition that there are singular individuals in the world. 1 in a
+
+Chamath Palihapitiya: 1,000,000, 1
+
+Jason Calacanis: in 10,000,001 in a 100,000, whatever it is. Who can just drive an entire economy forward? Whether it's gates with Microsoft or Steve Jobs with Apple. There are singular individuals who come to this country
+
+Chamath Palihapitiya: -- Bam Ben Brogan with the tunneling company.
+
+null: Nice, Paul. Nobody knows what you're talking about except for me.
+
+Jason Calacanis: There are people who will push these things forward and and take risk. And we have to -- Yeah. -- recognize that it's a small number of individuals backed by a large amount of capital that create massive jobs and great prosperity. It's an uncomfortable conversation for people to realize that it might just be a couple of dozen people a year immigrating to this country that changed the fate of this country.
+
+David Sacks: Yeah. And why do you need to allow 3,000,000 migrants to stream across on border every year.
+
+Jason Calacanis: because you don't know which one it's gonna be. That's
+
+David Sacks: why. Really? You don't. That's that's your immigration policy is open border So that one
+
+Jason Calacanis: is $1,000,000. I said recruitment. That's how you're gonna improve it.
+
+David Friedberg: So you're you're you're recruiting? Yeah. You're in a great center.
+
+Jason Calacanis: I can explain that. It's a great question, Saks. There are there are 2 things to look at here. There is a pragmatic.
+
+Chamath Palihapitiya: Also, let
+
+Jason Calacanis: me finish my sentence.
+
+David Sacks: No. I'm
+
+Chamath Palihapitiya: just gonna ask you to just clarify as you say it. It's you're Are you saying that the PhD student that starts Google is streaming across the border or actually applying for --
+
+Jason Calacanis: No. Absolutely not. Yeah. I just wanna -- That's a national art school. to go to college here.
+
+Let me parse it for you. There's immigration and then there's recruitment. And if we frame this process with those 2 different words, There are people who are, yes, immigrating streaming across the border. However, you wanna frame it in sacks. I don't look at it in a political way.
+
+and then there's recruiting the most elite talent in the world. We can do both of these things. One of them, you know, helps Farmers have people to work the fields, to have people take entry level jobs to work in the service industry, we should bring in 2 or
+
+Chamath Palihapitiya: 3000000
+
+Jason Calacanis: of those people per year. We should make it legal, and we should celebrate it because we have so many of those positions open that Americans don't wanna take. We should then also, in parallel. And without confusing the issue for political reasons, recruit people to come to our universities, and when they graduate, have their citizenship stapled to that diploma and not let them leave the company country. and let them start companies here.
+
+Instead, what we do is we make them fight to stay here. We should be recruiting the smartest, most talented people. That will be hundreds of of people per year, 100 of
+
+Chamath Palihapitiya: 1000.
+
+David Friedberg: Okay. Saks for sponsors.
+
+Chamath Palihapitiya: --
+
+Jason Calacanis: millions coming across the border.
+
+Chamath Palihapitiya: Sick Jay Cal is very reasonable. No? Sick Jay Cal is great. Yeah. I I
+
+Jason Calacanis: think that
+
+Chamath Palihapitiya: -- --
+
+David Friedberg: so much better when he doesn't moderate. Yeah. Yeah. Go ahead, Seth.
+
+David Sacks: You know, I'm an immigrant. You know, my my dad's gone over. yeah, my dad came over in 1977 when I was five years old. Of course, he had an MD. He was a doctor he actually had, like, skills and wasn't immediately gonna become a net government dependent.
+
+So I think that it makes sense to allow immigration who can actually add something into our economy and bring skills and all the rest of it. But the problem we have is that if you wanna take that reasonable position, you're told that you basically have to accept a situation of de facto open borders, which is ridiculous.
+
+Jason Calacanis: No. You don't. These 2 separate things.
+
+David Sacks: And And they've become they've become conflated.
+
+Jason Calacanis: So guys are it's the number one party that conflates these 2 issues. You know they're 2 separate issues. The
+
+David Sacks: democratic party has conflated these issues.
+
+Jason Calacanis: Okay. Both parties are conflating them. Here at the all in podcast, can we agree that -- Yeah.
+
+David Sacks: Let's -- 1 group
+
+Jason Calacanis: of people could recruit? Are people for the 18 programmers? Or one group of people? allow more to cross the border patrol service jobs.
+
+David Sacks: Yeah. More to the more nuanced policy is the way to go. But but look. Let me tie this back to to Davos man. What was the definition of Davos man?
+
+It was somebody who is pushing this ideology of free trade and open borders to such an extent that it creates a nationalist backlash or populist backlash.
+
+David Friedberg: Fair enough. Yeah.
+
+David Sacks: That's exactly what's happened at our southern border is You have the people who believe in immigration push that ideology to such an extent that they won't create a rational sensible Southern border and process it on our southern border. It's chaos down there. And the response is that we're gonna pause. in the dream team. Yeah.
+
+In favor of bringing in the dream team,
+
+David Friedberg: But the response of open borders is the creation of this nationalist movement. Right? The nationalist movement only exists in the face of open borders. think that's that's the point. Right?
+
+Like, the extreme there's the extreme.
+
+Jason Calacanis: I think the immigration says the should be based on points just like Canada. If the
+
+David Sacks: Davos men don't if the Davos men don't start taking in start taking into account these national considerations. around the defense of their borders and these issues around trade hollowing out the middle class, then there's gonna be an intense backlash. I don't think those elites have been managing the situation very well. It would've been it would've been better for them to pursue the more nuanced policy you're talking about.
+
+Jason Calacanis: Why are we afflating the issue then? Why do the Democrats and the Republicans, Saks make this such a polarizing issue instead of stating it the way I did. Recruitment
+
+David Friedberg: So it's in the southern border. It's so easy to separate them. You know, when you when you conflate them, you can incite an emotional response from your voting base. That's it. That's why all of these issues that's why all of these issues get based out.
+
+They get based out to the point that then you can drive someone to vote for you because you've now frame the other side as this extreme side. And
+
+David Sacks: that's it. You earlier said hold on. Before you got suddenly very reasonable, you said that we had
+
+Jason Calacanis: to allow 2 to 3. -- haven't listened.
+
+David Sacks: But I'm gonna quote something you just said a minute ago. You said that we had to allow 2 to
+
+Chamath Palihapitiya: 3000000, 2
+
+David Sacks: to 3000000 completely destitute practically illiterate migrants to stream across our border because 1 in a million of them might be a Elon Musk.
+
+Jason Calacanis: No. No. There there could be no. No. Hold on.
+
+was talking about the dollar called out.
+
+David Friedberg: No. No. You can take it back.
+
+Jason Calacanis: Immigration typically includes when you say that word, the core of people coming in for education and the people coming across the southern border. So if you were to say immigration, most people were recently saying that's both of those buckets. I separated them out here so we can have a reasonable discussion. Recruitment of higher education, talented people with low education, migrant workers. They are 2 different buckets.
+
+And you have to be able to say, these are 2 different buckets. and that we should have a point based system. If and this is the conversation that doesn't happen amongst politicians, but can happen here. Look at Canada, look at Australia. They have what's called a point based immigration system.
+
+They give you points for everything that you bring to the country. If you bring money, If you speak the native language, if you have a degree, if you have a higher education degree, or you have skills that that country needs. Our country needs to move to a point based system. you're coming across the board and you don't speak the language and you don't have an education, you have zero points. If you have a master's degree -- I know.
+
+David Sacks: We just -- And speak to the last one.
+
+Chamath Palihapitiya: --
+
+Jason Calacanis: or 3 points, and you can let in buckets of people based on compassion based
+
+David Friedberg: on needing service workers
+
+Jason Calacanis: and based on needing the next Elon Musk or the next David Sachs or Shamal Palihapitiya.
+
+David Friedberg: I think the the argument, Jay Kal is that the compassion argument falls on deaf ears in a time where people feel we cannot afford it, and it's a luxury to embrace. That's all of immigration right now.
+
+Jason Calacanis: Just pick a number we can reasonably absorb. This is what
+
+David Sacks: Finland did.
+
+Chamath Palihapitiya: --
+
+David Sacks: at the southern border in CKS. Obviously, they wanna get that under control before they're gonna adopt your, you know, point based system that they don't trust.
+
+Jason Calacanis: We could do No. The point based system would solve the problem. Are you opposed to the point based system?
+
+David Sacks: I like the idea of I don't know if my point's most famous your points, but in concept, I like 5 ideas.
+
+David Friedberg: No. No. We don't need to.
+
+David Sacks: I like the idea of admitting immigrants based on skills the country actually needs.
+
+Jason Calacanis: Great. And
+
+David Sacks: a simple recognition that's better to bring in people who are immediately productive. Hold on. They could add to our economy as opposed to being net government recipients, dependence.
+
+David Friedberg: We're done. We're done. There are countries.
+
+Jason Calacanis: I just wanna make a point. There are countries the Scandinavian countries specifically. That have said, we can accept up to this many folks who are uneducated who don't speak the language because we have this many teachers and this many slots in school. And so I think it was Finland and Sweden, they said we can accept 50,000 per year of this type of immigration based on compassion. That's the reasonable discussion that has to happen here.
+
+David Sacks: But, Jacob, did you just say that we have to do these two things at the same time, meaning that until we impose an overhaul of our entire immigration system to be based on skills and points that we can't enforce the southern border.
+
+Jason Calacanis: No. I think you can enforce the southern border and do it. Okay. So you can do
+
+David Sacks: these things at the same time.
+
+Jason Calacanis: It's not what you're gonna say. It's just gonna be let
+
+David Sacks: me just tell you. There's gonna be
+
+David Friedberg: no -- I gotta move us. Canada and
+
+Jason Calacanis: Australia are already doing it. Let me just
+
+David Sacks: tell you, there's not gonna be a broad based constituency in this country for the type of immigration reform you're talking about until you get the southern border under control. because people look at that on the news and seek chaos. And there's no excuse for that.
+
+Jason Calacanis: They should be thoughtful. They should be thoughtful. And they should just look at what Canada and Australia have done. Those countries have actually controlled this, and it's not a polarizing issue there. It's a pragmatic issue.
+
+David Friedberg: Okay. Guys, I'm gonna move us forward to the the banding of TikTok. So I wanna kinda change the the tone a little bit This story recently is that TikTok has been banned for use on the campus WiFi's network.
+
+Jason Calacanis: Let's go.
+
+David Friedberg: at a number of universities, including UT Austin, Auburn, Boise State, University of Oklahoma. So college students can't access the app when they're on the campus network. This is following 19 states that recently banned TikTok and government devices. As everyone knows, TikTok is a product. from ByteDance, which is a Chinese based company.
+
+And there's been quite a lot of political and regulatory huffs and gruffs about ByteDance having this level of insight and access to users in the United States with the assumption being that much of the data that they're pulling out of the app is available to the Chinese Communist Party, which creates a security threat to the United States. That's one argument. I think there is also a significant tie in to ByteDance There's over $8,000,000,000 of capital invested in ByteDance by firms that we know well, like Sequoia Capital, Tiger Global, Cohu, Susquehanna, and others. They're trying to find a way to monetize their investment in what is truly the most viral, fastest growing, highest revenue growing biggest startup in the world right now in ByteDance. So there is a restructuring proposal apparently underway that's being discussed in Washington, DC right now.
+
+to try and restructure the organization and the ownership structure and the oversight of TikTok and ByteDance such that US regulators and US companies can oversee the data, the use of the data, the algorithms, underlying TikTok, and monitor them from within the United States. Question for this group here on the McLaughlin group. of 2023 is, does that do enough for you, McLaughlin? Do you guys think that that's enough First up is Chamath who's been silent for a bit.
+
+Chamath Palihapitiya: I think this is really bad news for ByteDance. Basically, what's happening is that and TikTok, All the frustration that all these legislature legislators and politicians have had over Facebook and Google and other sort of big tech companies is gonna get focused on ByteDance because you have this common enemy that you can point to as a boogeyman of sorts. And I'm not saying that it's right, but I think that What you're starting to see is it's much easier to pick a fight with the Chinese company and win and get broad based support than it is to pick a fight against an American company with a bunch of American employees and American market cap and American know how and American IP that gets impacted. So I don't think this is going to end well for TikTok. And I think the goal if I were any of these people on the cap table would be to sell it in secondary to somebody else and get out.
+
+I think the next big shoe to drop is going to be advertisers who come under a lot of pressure. So for example, think of all the advertisers that have left Twitter. There is a point of efficiency where you can live with all of the mess that Twitter has because it comes with a lot less scrutiny and oversight and political pressure than advertising on talk. And that, I think, is the next kind of, like, big wave here. So I think it's very, very bad.
+
+I think I think the enterprise value of this company is quite challenged and these guys should try to sell and get up.
+
+David Friedberg: Who are the buyers in that secondary market though?
+
+Chamath Palihapitiya: I mean, that's a lot of the capital The thing is the cap tables haven't been segregated, so what you own is Equity and ByteDance. Right. But the problem is the look through ownership would will discount a lot of TikTok if they see a lot more of this stuff happening. You guys have to remember, this is the 1st 3 or 4 weeks of 2023. Wait till we're here in September October November, wait till the election year starts.
+
+It's not good. So it's a discount on ByteDance. That probably Takes bike dance down by 70 or 80,000,000,000. So that's a 35, 40% discount to their last mark. So, you know, if somebody can sell in the high 100 1,000,000,000 of dollars, I think you should I think they should they should consider it.
+
+There's It's worth it.
+
+Jason Calacanis: I think.
+
+David Friedberg: Take care. I know you got strong opinions. Well, no.
+
+Jason Calacanis: Right. I think you have to be incredibly pragmatic here. This is the same as a five g issue. You cannot trust the Chinese government to not steal intellectual property or to put back doors into the software. It is common business practice there.
+
+Huawei was banned. They basically stole the source code from Cisco. That was proven. And it was proven that they were spying on people. Canada, the UK, the United States, Vietnam, everybody has banned using 5 g technology from China for a reason because they will use it to spy on you.
+
+this is the nature of an authoritarian government. It is far too powerful to have a a Not only the surveillance capabilities that are built into owning TikTok in the hands of the Chinese Communist Party To have the ability to very in a very nuanced fashion, trend certain videos, that would steer the United States in a certain direction. And just stupidity.
+
+Chamath Palihapitiya: Yeah. And -- Toric
+
+Jason Calacanis: stupidity is 1, of course. Right? They they're letting their need only 60 minutes.
+
+Chamath Palihapitiya: That 60 minutes clip is incredible.
+
+Jason Calacanis: Right?
+
+Chamath Palihapitiya: It's like they show they're showing science videos to the kids in China.
+
+Jason Calacanis: Exactly.
+
+Chamath Palihapitiya: And they're showing stupid nonsense to the kids in America. What do you think over millions of videos do size -- -- our children versus their children.
+
+Jason Calacanis: You can be a 100% certain they're doing psyops on our children as we speak. they are trying to make us dumb and distracted while they get smart and sharp. And by the way, it's very simple. If you're
+
+Chamath Palihapitiya: if you're a zupp or cigar -- This
+
+David Sacks: is not the choices of our kids. The algorithm just gives you more what you want.
+
+Jason Calacanis: Exactly. Of course. But that
+
+Chamath Palihapitiya: that that's like saying if you gave kids a choice between broccoli and chocolate bars, of course,
+
+Jason Calacanis: you're gonna pick chocolate bars. if you put the -- Kids of the supermarket and say eat, they're gonna go right to the cereal aisle.
+
+David Friedberg: The job
+
+Chamath Palihapitiya: of a parent's sex is number 1, know their name, and then number 2, differentiate Jenny? -- pen and pad sucks. Good things and Let me ask
+
+David Sacks: you a question. Edgar is Shamaz, that the future is not bright for TikTok here because it's gotten caught up. in the geopolitical rivalry between China and the United States, and that's only gonna keep getting more and more intense. The US and China are headed for a big security competition. and ByteDance is caught in the middle.
+
+So I agree with Jermoth about the future. But, you know, this claim is made that TikTok is Spyware. And, you know, it's listening to you. It's surveilling you. It's keeping track of you.
+
+Like, what is the evidence for that claim? I just wanna understand that a little better. Like, has anyone ever proven that like TikTok is Spyware. And if it is, why doesn't Apple stop it? Can you just explain that to me?
+
+Chamath Palihapitiya: Yeah. I think that Apple
+
+Jason Calacanis: has a complicated relationship with China.
+
+Chamath Palihapitiya: So -- The claim that they're not gonna blame.
+
+David Sacks: So, Jake, our your claim is let let me I just wanna pin Jake out down on this for
+
+Jason Calacanis: a second.
+
+David Sacks: Sure. Your claim is that
+
+Chamath Palihapitiya: 100%
+
+David Sacks: TikTok is Spyware, and Apple is letting it happen because they're relation with the CCP.
+
+Jason Calacanis: I do not have the evidence of specific instances of them spying. But I do know that this is what the Chinese government's aspiration is is to be able to have backdoors to spy on all Americans. that's why they, you know, are trying to get Huawei
+
+Chamath Palihapitiya: --
+
+David Sacks: But does iOS allow it to happen?
+
+Jason Calacanis: Well, you don't even need to know that because you can just open your eyes and look at I mean, that's an insult. But you could just look at what TikTok has the access to. It has access to your location, has access to your camera roll, and it knows, you know, everybody in your social circle because it has your address book. So by having your address having your location and having access to your photo roll, they have you compromised by default.
+
+Chamath Palihapitiya: The default settings when you install TikTok turns on local network, turns on microphone, turns on camera, turns on background app, refresh, and turns on cell data. So Tiknok is no worse than anybody else in that because a lot of other apps are very aggressively trying to harvest all that data as well. sucks. Like, it's like Alexa's always listening to you. Right?
+
+But you feel but you feel safer with Alexa because it's a it's an American company or the perception of safety is there. So I don't think there's a huge thing to prove other than, yeah, there's a setting that allows you to turn on my phone. Actually -- -- default,
+
+Jason Calacanis: and they do it. But they were caught. I just wanna make sure you guys understand this. According to the New York Times by Dance, the Chinese parent company of TikTok said on Thursday that an internal investigation found that employees had inappropriately obtained the data of US TikTok users including that of 2 reporters. Over the summer, a few employees on a ByteDance team responsible for monitoring employee conduct, tried to find the source of suspected leaks of internal conversation and business documents to journalists in doing so.
+
+The employees gain access to the IP addresses and other data of 2 reporters and a small number of people connected with the reporters by the TikTok accounts they were trying to determine if those individuals were in the proximity of by dad's employees according to the company. So there's an example of them using the technology to try to track down leaks.
+
+David Friedberg: Hold on a second. That's exactly what any app a company can do. The photos the screenshots we got from Twitter that were shared in all those files or whatever -- Yep.
+
+Chamath Palihapitiya: --
+
+David Friedberg: that happened a few weeks ago showed that that many Twitter employees were able to log in and just view the direct messages between Twitter users and that there's no necessary logging or access privileges required to have access to that information. There are these holes in all of these social networking and consumer digital consumer product companies that allow individuals to go in and do things with consumer data. It's not a whole.
+
+Chamath Palihapitiya: It's a feature.
+
+David Friedberg: It's a feature. Sure. But it doesn't reference, like, some systematic
+
+Chamath Palihapitiya: --
+
+Jason Calacanis: Yeah. But those aren't controlled by a government agency.
+
+Chamath Palihapitiya: No. That that's the key thing. What Jake Al just said is the key thing. Everybody tries to get these things turned default on. Every app tries to get access to your camera roll, to your contacts, to turn on the microphone.
+
+The problem isn't that those settings exist because Apple created them and Apple created a privacy framework where you have to opt out of it. Okay? The issue is that that data, instead of going to an American company with American on a with American data centers and American service, it's going to somebody in China or It's the perception that that's happening that I think is a death knell. And this is also excluding all of the work that every single big tech company must be doing to point the finger away from them. And this is something they can all agree on.
+
+If you got if you got Andy Jassy and Zuck and Sundar and Satya Nadella in a room, what do you think they could all agree on? Hey, guys. Are we off pointing the fingers at each other, or should we just point it over there to a company based in China?
+
+David Sacks: So so do you think do you think that TikTok in a way is being scapegoated here, or do you think it's a real security threat?
+
+Jason Calacanis: Both. Both. Yeah. That's yes to both. And you know what?
+
+I think what we saw with the the Twitter file for me, personally. The one that was most concerning was the fact that the FBI was being treated. They didn't have control of it like the Chinese government has control over ByteDance at a wholesale level. But they were being given, you know, pretty close to
+
+David Sacks: they weren't giving god
+
+Jason Calacanis: privileges, but they had more influence than they should have, and they should have gotten subpoenas. Right? So even in a democracy like the United States, you can see the FBI using techniques to get employees on their side. to get information on specific users. Imagine if the FBI just had god mode for Twitter or Facebook.
+
+Like, what would happen in even in a democracy we see it we see abuse. The Chinese government is a communist party. They have no problem sucking the data down of every single person and using it however they want.
+
+Chamath Palihapitiya: I think the the problematic thing is that when you look at the capital structure of these Chinese companies post now being ruler for life is the Chinese government has typically a seat on all of these boards. They also typically have a golden vote And so when you think about the governance, the governance of these companies has tilted far away from a normal cap table where it's one shareholder, one vote, 2, you are allowed to exist on this cap table at the benevolence of the government. And so I think that you have to factor that in as well, Saks. So, you know, is it amplified probably. But is there also nontrivial risk that we would never give to any other company?
+
+Absolutely. Like, you know, take the opposite example How would we react if the government had a golden vote and a board seat on meta? Going into an election. I mean, one party would be crazy And the other party would stay mum's the worst. That's what would happen.
+
+Jason Calacanis: Well, I
+
+David Friedberg: mean, let's talk about but let let's let's let's be pragmatic. The news reports that came out this week indicate that they're talking about restructuring ByteDance. So let me propose this to you guys if TikTok US were set up as TikTok US Inc. to its own C Corp, based in the US, and ByteDance owns passive nonvoting shares in TikTok USA. All the software all the services, the algorithms are all run-in the US.
+
+The data is only sitting on servers in the US. And the Chinese have an economic interest ultimately and what happens with that asset. But that asset is entirely managed -- Yeah.
+
+Jason Calacanis: That's totally fine. That should be a goal.
+
+Chamath Palihapitiya: --
+
+David Friedberg: in the US.
+
+null: And I think they're pushing it out and do that.
+
+Chamath Palihapitiya: And if that happens -- -- trigger CFIUS, So you'd have to then make an exception.
+
+David Friedberg: That sounds like it's part of the discussion that's underway right now is how do we get past this regulatory hurdle? because I know guys. sent this with Facebook. I don't know how you turn off TikTok for a hundred million people that are using it for 2 hours a day. Guys, we're -- We're -- -- major background.
+
+Jason Calacanis: We're we're we're sticking to -- We're rejected it.
+
+Chamath Palihapitiya: We're rejecting deals left right and center at much, much smaller thresholds because of CFIUS because it's we're not and we're not even dealing with China.
+
+David Friedberg: I assume assume you get past CFIUS. them up. Assume that there is no that they've been right away.
+
+Chamath Palihapitiya: It's a bad assumption.
+
+David Friedberg: Right. But, like, that's obviously just $8,000,000,000 of capital. because can you tell me what's happened?
+
+Chamath Palihapitiya: The minute that if you let the Chinese government around and do an end around on CFIUS to own 30% passively, then everybody who's had a deal rejected for a much smaller threshold for a much more benign issue will sue.
+
+David Friedberg: Except that they started with this asset versus buying into it. Right? That's the difference. And what they're doing is they're seeding the the difference here is they're seeding control of the asset to US investors and oversight by the US government versus the reverse is trying to come in and buy an economic interest in the US asset.
+
+Chamath Palihapitiya: That's not what CFIUS adjudicates. It doesn't adjudicate where was this originated. It adjudicates in this cap table Does this person exist? Should they exist at what threshold? What do they know?
+
+And are we giving something that we shouldn't give? And I'm
+
+David Friedberg: saying -- Yeah. Let me give you another What your friend
+
+Chamath Palihapitiya: is saying, if the pragmatic answer is you can't just make up a bunch of stuff that blows up a bunch of others though.
+
+David Friedberg: Let me frame it differently. What if ByteDance sold TikTok US to a US owned private equity consortium, a US run private equity consortium that effectively bought TikTok US and operate it in
+
+Chamath Palihapitiya: here in
+
+Jason Calacanis: the US.
+
+Chamath Palihapitiya: But that's exactly what should happen. But my point is those people are smart enough to not pay full price. They'll say, you're fucked. That asset is worth 0. I will buy it for $10,000,000,000.
+
+Take it or leave it. And you know what they'll have to do? They'll have to take it. So my point is the equity value is so impaired in this thing. Would you buy that?
+
+For 10,000,000,000, of course, I'm a buyer, but these guys are smart enough to drive a huge bargain, a hard bargain. So if you're existing on the cap table and you've marked it at 3 20, I would be fucking selling it.
+
+David Friedberg: Okay. Well, look. Something like this is gonna happen, so it'll
+
+Chamath Palihapitiya: be interesting to watch. And if any group of people got together and tried to actually buy it for what the fair market value is worth via a spreadsheet, is a horrible investor in this moment. You should hold a gun to their head, and you should extract the massive pound of flesh that gives you a huge margin of safety and makes you money good.
+
+Jason Calacanis: We know people who are shareholders. If they could have sold it at
+
+Chamath Palihapitiya: 320
+
+Jason Calacanis: or a 120, they would have sold already.
+
+Chamath Palihapitiya: Well, no. There are there are people that'll buy this thing in the hundreds. That's in size.
+
+Jason Calacanis: Then sell everything you can, and then put it into another company.
+
+Chamath Palihapitiya: Now the problem is you have to show a markdown because you've already marked it
+
+David Friedberg: at 320. I gotta take a 65% discount.
+
+Jason Calacanis: Yeah. If you're if if you're underwater, you're underwater. But for anybody who got into the sub 1,000,000,000 round
+
+Chamath Palihapitiya: -- You you can't eat IRR And you can't eat paper markups. You can only eat the distribution. So get the DPI and move on is what I --
+
+Jason Calacanis: Get the DPI and move on. It's another bet you could place. why try to -- Okay.
+
+Chamath Palihapitiya: --
+
+Jason Calacanis: be greedy if the last 3 x out of this investment.
+
+David Friedberg: I wanna move away from software meets leisure to software meets human health and productivity. A couple weeks ago, we were gonna talk about this last week. It was announced that BioNTech was buying Insta Deep. Insta Deep is a broad horizontal AI or machine learning tools company. services business.
+
+They partner with big businesses to help them build out ML driven infrastructure to improve their products and their
+
+Chamath Palihapitiya: operations and their
+
+David Friedberg: businesses. One of their customers was BioNTech, the company that designed and owned VIP for the original Pfizer COVID vaccine. 1 of the origin originators of mRNA based technology, BioNTech, doesn't just focus on mRNA technology. They also focus on cell and gene therapies, the the novel new kind of modalities that are emerging in in therapeutics. And, you know, it was a really interesting acquisition.
+
+It was a 250, I think, person came that they bought the company for about $600,000,000, specifically to improve how AI can be used to accelerate drug discovery. I'll just make a comment on this and then sex. I'd love to kinda hear your point of view on these types of businesses broadly. the capabilities of machine learning when applied to a particular vertical are quite profound. I you know, I've certainly been involved in this space in agriculture and increasingly doing more of this work in pharmaceuticals and and and biotech.
+
+And, you know, when when you can have large unique datasets that you can then model using these tools and these capabilities and be predictive about what the next product iteration should be it can really change the value and the trajectory of your business. 1 of the big trends in pharma right now to move from in vitro testing, meaning you're running biochemical experiments in labs, in assays, iterating testing, experimenting to see what molecules work, or what protein does what, and if it binds to the target, and doing more of this in silica as it's being called, which is in software. And rather than just doing testing in software, you can actually use tools like alpha fold that can be predictive of large molecules and how they can drive outcomes to make decisions about what to put in your pipeline. So if you take 99% of the junk out of the top of your pipeline and you only focus on the 1% that the software predicts will be more successful, you much more quickly get drug discovery through the pipeline, and you have a much higher hit rate. So the ROI is extraordinary, particularly when you're talking about multibillion dollar revenue streams coming out the other end of that pipeline.
+
+And so I think, you know, the way this reads, these guys raised a
+
+Chamath Palihapitiya: $100,000,000
+
+David Friedberg: in a round last year, sold the company for 600,000,000 it seems very similar to deep mind being bought by Alphabet a few years ago, where the application of the the team is pretty broad across a number of opportunities but BioNTech bought them to focus on the kind of pharma space. So I guess, Saks, you know, in in the earlier stage and, you know, I see a lot of teams now that are like, hey. We're for this or ML for that, a lot of pharma and biotech deals have to have the catchphrase ML or AI in their writing now because of the economic improvement of those businesses. Are you looking at enterprise software businesses that aren't necessarily about the typical subscription model where you sell a a seat license and people pay for that, but have this broad toolset and toolkit where these folks are earning revenue share or participating in the services revenue stream for enhancing the value of their their their their partner in the AI or ML space? And what's the better business model?
+
+because I think this is where so many new teams are starting out is what's the business model and what should we be focused on with our ML tool kit.
+
+David Sacks: I mean, the short answer is no. We haven't done any deals like that. Well, we were not pharma investors. So I don't know how I'd be able to evaluate. Even if it is a software product, I don't know how to evaluate its effect on pharma outcomes.
+
+So, I mean, we haven't done any deals
+
+David Friedberg: like that. -- other verticals? I mean, like, do you look at ML and AI companies that are more services or partner oriented versus just selling seat licenses to a software tool? I mean, is that a big trend you're seeing?
+
+David Sacks: I don't think we have enough data to tell you what the trend is. We did a deal called Pearl, which is creating an AI for dentistry. So what it'll do is it scans in all of the X Rays and, you know, dental records from from dental practices, and it gives a a kind of a second opinion. It can spot things like cavities and things like that or just changes in the condition where it's really powerful is over time. Right?
+
+If it's got your last 6 sets of x rays over whatever 6 year period, it can detect changes that are probably, you know, hard for a human to see. So they think they can get to, like, better than human sort of diagnosis by using computer vision. And then we invested in And sort of after that, we're we realized, okay. This is kind of like a powerful application. So we invested in a company called Roboflow which creates tools for computer vision.
+
+So Pearl created its own tools for taking a large number of, you know, X Rays and classifying them and then creating their own AI tools. RoboFlow gives you that same toolset, but you can run it on any computer vision project. And they seem to be building a pretty big universe of software developers who are using their tools
+
+David Friedberg: And in in this case, this was a team that was bought they bought a 250 person team for $600,000,000 that just had this capability set, really, and a toolkit. Does that change your outlook for investing in ML AI Companies? When you see a $600,000,000 exit for effectively a capability, they didn't have, you know, a core product that was in market. They were doing kind of these co development deals. But, I mean, how much does
+
+Jason Calacanis: this sort
+
+David Sacks: of an an M and AIs already? Yeah. AI is already the hot thing. Everyone's kinda looking at this now.
+
+Jason Calacanis: Yeah.
+
+David Sacks: I don't know. Like, I you never wanna base an investment decision on the fact that some acquirer might come in and and buy you for a large amount of money when you have no revenue or business model. I just think like that's not really a sustainable for us.
+
+Chamath Palihapitiya: --
+
+Jason Calacanis: does seem that AI engineers go for 2,000,000 each, I think, is kinda your point, Dave?
+
+David Friedberg: On an m and a basis?
+
+Jason Calacanis: Yeah. I mean, your deep mind got bought for, what, 600 by Google and I think they had 200 people at the time. I think
+
+David Friedberg: it was like 400. Yeah. It was like 4 100. 4400. Yeah.
+
+So Yeah.
+
+Jason Calacanis: It does seem like and I think DeepMind did not have a business concept in mind when they were funded. They just wanted to do research. Right? That was kind of the idea about that company.
+
+David Friedberg: platform capability similar to Instant Deep. I mean, there's a lot of these that that's what I'm pointing out. It's like some of these platform capabilities end up just getting bought for. you know, huge sums
+
+Chamath Palihapitiya: --
+
+Jason Calacanis: Yeah.
+
+Chamath Palihapitiya: --
+
+David Sacks: because they're gonna find me.
+
+Jason Calacanis: It's not your draw strategy
+
+Chamath Palihapitiya: at Sakspoint, though. The amount?
+
+David Sacks: You can't invest in a company hoping for an unreasonable acquisition. Mean unreasonable meaning that
+
+Chamath Palihapitiya: -- --
+
+Jason Calacanis: unreasonable acquire. Yeah.
+
+David Sacks: Yeah. Like unreasonable meaning that your own metrics don't reflect that valuation as a business. You might be worth it as a strategic acquisition of somebody else. But you you actually raise interesting question, which is, is a seat model the right way for one of these companies to price their product? And you may be right that the the seat license model doesn't really work because Like, how many seats do you really need to buy from
+
+David Friedberg: this company? It's also look. I mean, one of my like, what I'm product engineer. Yeah. What I
+
+David Sacks: can't tell. Like, I mean, we we've seen this we've even seen we've had these debates inside the companies I mentioned where, like, you know, charging a $10 or even a $100 a month seat, doesn't merely reflect the value of the insights that are being created. And so, yeah, there are like, you know, there I don't think this has been figured out yet.
+
+David Friedberg: this is the big question in ML and AI. When when I was at Monsanto, you know, we had all these IP licensing deals we do or new products would come to market. And it was never cost plus or simple pricing. It was always about value capture. If in an enterprise setting, you know, because we sold to farmers, it's like how much value are you delivering for the farmers?
+
+If it's a $100 a profit an acre, you try and charge an incremental $30 an acre for that product. And it was always a 1 third value capture model. And the same is true in Biotech And Pharma, the producer of the product or the co developer of the product is often from a value capture. And it's not a site seat license, and it's not a service fee. It's more ultimately, we wanna get a royalty on the outcome on the improvement that we can deliver to you.
+
+And so there's all these novel business models that are emerging, at least, that I'm seeing in Pharma And Biotech, to participate more meaningfully, ultimately, in the drug development outcome versus just getting charged a fee for doing a service or a fee for a license to a to a software package.
+
+Chamath Palihapitiya: The value of these companies has gone down. I was a early investor, series a investor in company called Flat Iron Health. We sold it for $1,900,000,000 to Roche. That's the biggest exit in this space for this machine learning enabled stuff. It happened in 2018.
+
+And so what's really happened is the value of acquisition and m and a has gone down even as the technology capability has gone way way up. And why is that? It's because this stuff has yet to be proven to actually meaningfully improve the hit rate for these drug companies. So whether it's BioNTech or Roche or anybody else, the biggest problem we still have is getting the design space guessing that better. And these machines are better at doing raw calculations, but they're not necessarily better at veering towards this design space over this design space.
+
+And so as a result, you're not improving the the either the slugging percentage or the batting average of these pharma companies, and that's why they're paying less and less. So everybody will have this capability as an adjunct. The thing that you have to do is sort of what What you guys have said which is if there's a company that can actually do better guessing at the top of the funnel, The thing that you should probably do is just give it away in return for a back end rev share and a royalty, and that business also So, you know, the best performing company in Pharma is a company called Royalty Pharma. It's a $22,500,000,000 company that has 90% EBITDA margins It exists in Ireland. It's run-in New York by this wonderful entrepreneur, Pablo LaGuarda.
+
+But that's what he does. He buys small pieces of royalties. And His whole thing is like the Paul Graham thing at YC. I'll give you just that little amount of support, and all you need is a little lift in valuation to justify giving me this percent. And the tooling company, the AI company that does that, could win.
+
+Who would go to Roche and buy on tech or Lily or somebody else and just say, look. Use my tools. And whatever drug you generate off of me, I just want a 3% royalty. And all you need to do is just show a 3% lift across a portfolio of assets. That would be a killer business model.
+
+Because if you look at what Pablo's done, over a large number of successes, that's a ginormous company. Mhmm. Mhmm.
+
+David Friedberg: Jay Cal, I mean, are you investing in the seed stage ML AI companies, and are there novel business models that you're seeing?
+
+Jason Calacanis: We're we're not
+
+David Friedberg: seeing too many
+
+Jason Calacanis: yet, to be honest. We we are seeing people play with Chamath GPT. and kind of do, you know, experiments. But, you know, the more I've used Chamath t, we've connected it to our Slack. So you can actually ask a question in our Slack in a channel called AI testing.
+
+and it will give the answer and everybody can see people like playing with it. You know what? It's kind of like a parlor trick. Now, I'm in like that phase where I'm like, yeah. This is impressive, but it didn't actually solve my problem.
+
+and it's slightly faster than doing a Google search. So I am thinking there's going to be a really good business created in taking the open source projects and forking them in verticalizing them like, you know, Saxes one that's doing dental work. You know? Like, this makes sense to me.
+
+Chamath Palihapitiya: Somebody should do it in accounting. Somebody should learn all of GAAP accounting, which is pretty simple because it's published. FASB, all of these nonsensical accounting rules, and give you a 100% guarantee of no malfeasance. So for example, you guys saw this Brazilian company. You want AI Accounting.
+
+That's your that's your -- Look at this company. Logry.com. Logry's agents. Look at this company, Americanas in Brazil which just torched $20,000,000,000 of enterprise value. Why?
+
+Because these guys were using Excel To do a bunch of complicated capitalization and cost accounting, made 2 or 3 years of mistakes, it added up to $2,000,000,000 and they're basically gonna file bankruptcy in the next few days. That's completely avoidable human error that should never happen. And an AI would be perfect for that. Like, this is not super controversial to just follow GAAP accounting. Right?
+
+Yeah.
+
+Jason Calacanis: I mean, I about -- I don't know
+
+David Friedberg: if you need AI for that. I think you just need software. Like, a database would be good. But
+
+Chamath Palihapitiya: -- No. The the problem is the database is today, like everybody sits on top of Oracle GL or Workday, it doesn't prevent these errors. So my point is, you gotta get humans out of the system, and the AI should be the accountant. the AI knows the rules, generates the p and l and says, this is it. And by the way, that's way better risk management for the CEO and the CFO because as you guys know, if you're the CEO of a public company, you have to sign your signature that these things are legitimate.
+
+Jason Calacanis: And how do you know? Right?
+
+Chamath Palihapitiya: I would waive or know that a computer did it. Like, an open AI algorithm tells me, Jamoth, this p and l is perfect. Then some dude I don't know, at Ernst And Young.
+
+David Friedberg: Okay.
+
+Chamath Palihapitiya: I have a question for Saxx. Saxxipoo, can you please explain to me why Alec Baldwin is gonna get charged with manslaughter for this rust thing? That seems really crazy. Can you just say could you just explain what happens on a set with guns? And how the hell did this happen?
+
+Like, what the hell is going on?
+
+David Sacks: Well, I've produced 2 movies, but neither one of them involved, you know, guns or shootouts or anything like that. So I haven't had, like, firsthand experience this. I have
+
+Chamath Palihapitiya: --
+
+David Friedberg: You're a gun owner. So you're an intersection of movie producer and gun owner. So it's a good -- Yeah.
+
+David Sacks: I understand the rules have gone safety and and that kind of stuff. Look. Alec Baldwin did not follow the rules of of gun safety. The first thing I would do if I was ever hand handed a gun would be to clear it. I would like check and see if it was loaded and and clear it.
+
+When you never point it at you at somebody, you always treat a gun as if it's loaded even if you think it's not. But he was in a very specific situation, which is he's on a movie set. And the person who's handing him the gun is the armor
+
+Chamath Palihapitiya: and said cold gun and said cold gun.
+
+David Sacks: Yeah. Exactly. It's somebody whose job it is to make sure that the gun is handled properly and unloaded and all that kind of stuff, and they're using it on a set. So I agree with you. I don't quite understand why Alec Baldwin is liable in that situation for the gun going off.
+
+The person who screwed up here The person who screwed up is the armor.
+
+Chamath Palihapitiya: He's the armor. I have a question.
+
+David Sacks: That's the person whose job it was to never allow live ammunition on the set. But handle the guns properly.
+
+Jason Calacanis: But he -- -- ever this
+
+David Friedberg: person, I
+
+Chamath Palihapitiya: thought at one point of guns in movies was that they were flying blanks.
+
+David Sacks: Yeah.
+
+Jason Calacanis: They were wearing blanks, but they had blanks and regular ones in their kit for whatever reason because they were shooting real ones as well. But this is involuntary manslaughter. And I think Baldwin is also the producer of the film. So I don't know -- Yeah.
+
+David Sacks: But there are other okay. So -- -- to
+
+Jason Calacanis: do with his hiring of the armor. You know what I'm saying?
+
+David Sacks: No. That that I can that I can speak to. Yeah. You you frequently give stars in an independent movie, a producer title. He's not responsible for the physical production of the movie.
+
+I bet anything he's not. There's a guy called the Line Producers responsible for the physical production. And my guess is he wasn't even responsible for the business side of the production. They've got other producers for that. So it doesn't make sense to me if they're gonna charge him for having some sort of overall liability as a producer.
+
+to then not charge the other producers. That just doesn't make any sense. So I think this producer credit thing is probably a red herring. Like I said, I think the armor is the person who is singularly responsible for this situation. They're the ones who screwed up.
+
+They're the ones who had a responsibility to make sure that the gun handed to an actor I mean, Alec Baldwin's an actor. Yeah. Look, conservatives in social media are dragging the guy because they think he's a douchebag, and he doesn't know how to handle guns. But that's not his job. He doesn't I ask a question.
+
+Sorry.
+
+David Friedberg: I'm asking
+
+Jason Calacanis: this question. Yeah. In
+
+Chamath Palihapitiya: movies, why would you ever have live ammunition on a movie set?
+
+David Sacks: You shouldn't.
+
+Jason Calacanis: They shouldn't have. You shouldn't. a mistake. No.
+
+Chamath Palihapitiya: I was so so it's not as if, like, the scene is different if you have a real bullet versus a blank.
+
+David Sacks: No. That it should it's as far as I know,
+
+David Friedberg: it should only be blank. If I remember right, there was a story about how the Gunnar Marie people were taking members of the cast and crew. and they were shooting guns for fun in the desert. And they were
+
+Jason Calacanis: doing, like -- Yeah.
+
+David Friedberg: They were doing, like, targets and messing around and teaching people a gun stuff and just playing around but using live ammunition and that that led into an accident, that there was a good kind of transition.
+
+David Sacks: That's really bad. That sounds like the kind of negligence that caused this. But I unless there are facts we don't know about. I don't know why armor is also
+
+Jason Calacanis: being charged, by the way, within walls. Yes.
+
+David Sacks: alcohol winds being charged along with the armor. That sounds totally legit to me.
+
+David Friedberg: So guys, listen. I need to run -- Okay. -- another call. I was gonna talk about this really fantastic paper on the one of the driving forces of aging has demonstrated by a team from Harvard in in in collaboration with many others on epigenetics and the loss of data integrity in epigenetics really being the core driver of aging in mammalian cells It's an incredible paper. It speaks a lot to what we talked about last year, Yaminaka factors, and partial epigenetic reprogramming of cells.
+
+How that can reverse aging. These guys have demonstrated it in a really powerful way. I'd love to spend some time on it. Maybe we pump that science corner to next week. Wrap up for today.
+
+I think we've talked about all sorts of fun stuff. It's been a real pleasure and an honor to be in the seat of the world's greatest moderator. We miss him today. We honor him. We look forward to having his return back week.
+
+It's been a pleasure. -- I'm sick.
+
+Chamath Palihapitiya: --
+
+David Friedberg: chatting with you, gentlemen. And on behalf of the all in pod and my cohosts, Timothe Polyhappatthiya, David Sacks, Jason Calacanis. Thank you for listening. Bye bye.
+
+Chamath Palihapitiya: Love you boys. Bye. Bye. Bye bye.
+
+David Sacks: We'll let your winners ride. Rainman David Saxon. We open source it to the fans, and they've just gone crazy like that. Love you. besties are back.
+
+my dog taking a notice in your driveway.
+
+Chamath Palihapitiya: We should all just get a room into have one big you, George, because they're all just useless. It's like it's like sexual tension, but they just need to release that mountain. What? You're the bee flirt
+
+David Sacks: your feet.
+
+Chamath Palihapitiya: What? What?
+
+Jason Calacanis: Where did you get Murphy's artifact?

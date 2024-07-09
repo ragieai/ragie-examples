@@ -1,0 +1,1290 @@
+
+David Sacks: My stance really too over the comment board.
+
+Jason Calacanis: Yeah, Saxx. How was your week off when you you gave up on the pod for a week? and then did 4 media appearances for 90 minutes each on other pods. You did 6 hours a you took off from this pod to give your ratings to Megyn Kelly and Dave Rubin.
+
+David Sacks: Yeah. I did a 45 minute hit with Dave Rubin on Ukraine. So be sure to check that out. And then Yeah. Did I do no.
+
+Megyn Megyn Kelly Freper and I did that the week before. Okay. Surprisingly, she didn't invite you back.
+
+Jason Calacanis: Yeah. I don't know. What could have happened?
+
+null: It was so great. It was so great. That was awesome. I love Mega Kelly.
+
+David Sacks: Didn't she call you a prick?
+
+Chamath Palihapitiya: Yeah. She did. She did. she only knew me for 45 minutes, Jujie, that
+
+Jason Calacanis: takes, like, 3 or 4 days.
+
+Chamath Palihapitiya: She just got right to it.
+
+Jason Calacanis: Allegger winner died. Rainman, David Sachs. And I said -- We open source it to Sachs, we have not had such negative handing comments
+
+David Friedberg: on YouTube since Jay Cal got Brinkadooned for his pro Ukraine.
+
+Jason Calacanis: Now I'm getting Brinkadooned for sex. Not showing up. I get Brigadoon for asking him a question, then I get Brigadoon from him to be showing up. -- getting Brigadoon. I don't know.
+
+David Friedberg: Maybe it's just honestly -- When
+
+Jason Calacanis: will you
+
+Chamath Palihapitiya: guys realize? that there are 3 to 5 million people a week that listen to this podcast. A 100 nitwits who comment on YouTube They're neither right nor wrong. They should just be completely ignored.
+
+Jason Calacanis: Turn the comments off.
+
+Chamath Palihapitiya: The only thing that matters are the ratings. If you care about that at all, and last week was one of the best rated shows we've ever done.
+
+Jason Calacanis: I think it was highest rated after Elon's episode.
+
+Chamath Palihapitiya: It would have been even better with David. So we should brigadoon, the brigadooners. Those nitwits should be ignored.
+
+David Sacks: I think this is a little bit like a band where, like, you can't messed with the chemistry of the band. And --
+
+David Friedberg: Yeah. That's
+
+Jason Calacanis: the lesson.
+
+David Sacks: Even though there's a lot of infighting in the band, like -- It just works. It works. And so you don't wanna second guess it too much.
+
+Jason Calacanis: Well, the and then if somebody from the band gets sick and somebody sits in, even if it's like you get some incredible guitar players sit in. People are like, that's not the guitar player who I have the t shirt of. I need my guitar player back. Alright. Anyway, well, I'm just glad Ringo showed up 22 minutes late.
+
+Welcome back, Friedberg.
+
+Chamath Palihapitiya: Let's get started. Sorry. Sorry.
+
+David Sacks: I I just
+
+null: I don't mean to fuck with the band. I'm not gonna fuck with the band.
+
+Jason Calacanis: Ringo was an underrated drummer. Freight Park, you have a role here That's amazing.
+
+David Sacks: I think you're more like the drummer, Jacob.
+
+null: You know I'm the -- Dreamer,
+
+David Sacks: maybe base maybe base player.
+
+Chamath Palihapitiya: You know, I'm John Lennon. Just George Harrison. George Harrison.
+
+Jason Calacanis: Yeah. actually George Harris are very underrated, but I you know, I'm I'm pretty clear.
+
+David Friedberg: Have you guys ever heard
+
+Chamath Palihapitiya: the version of Blackbird that Paul McCartney did Just with the ukulele.
+
+Jason Calacanis: No. I'd like to hear that.
+
+Chamath Palihapitiya: Maybe one of the best songs ever recorded, one of the best records I've ever heard. Fantastic. Incredible.
+
+Jason Calacanis: Alright. Listen. There's so much to start with, but I think
+
+David Sacks: -- --
+
+Chamath Palihapitiya: bird swimming in the dead of night.
+
+David Friedberg: Take these broken wings and learn
+
+Chamath Palihapitiya: to fly. Oh, guys live.
+
+David Friedberg: Sacks, were you at a building on Market Street yesterday, by any chance?
+
+Jason Calacanis: No fly zone.
+
+David Sacks: The homeless shelter?
+
+Chamath Palihapitiya: Well, I
+
+null: I think you you could talk about a
+
+Chamath Palihapitiya: abandoned homeless shelter. Hey, Brook. I think it's fair to say that there will be a lot of people that we know that will go and help make Market Street better. Make Market Street great again.
+
+Jason Calacanis: Make margination ready. Yeah. Absolutely. Absolutely. I'm I'm looking forward to some tofu salads and, yeah, meditation.
+
+And I'm a stay.
+
+null: Literally, I think 8000 square feet is meditation rooms that haven't been used in 5 years.
+
+Chamath Palihapitiya: Quite honestly, though, like, on the other side of this, I would say Parag Agrawal does deserve a catch you for shareholder value creation. Absolutely. What
+
+David Sacks: 54.20
+
+Chamath Palihapitiya: a share, which by the way, we said was gonna happen, and it did happen, was ginormous in this market. And I just wanna see the look on that barista's face when they're warming up the oat milk. when a band, a very, very tough knuckled company builders walks through that door.
+
+Jason Calacanis: Yeah. The Oatly has left the building.
+
+Chamath Palihapitiya: Let's just leave it at that. Wow.
+
+Jason Calacanis: So I guess we can talk about it now. Elon has close
+
+Chamath Palihapitiya: the deal? We could talk about it now.
+
+David Friedberg: Well, no.
+
+Jason Calacanis: I I'm just saying, Saks and I could not talk about this because we had you know, we we couldn't talk about it for legal reasons.
+
+Chamath Palihapitiya: They deserve a statue in front of the bronze statue for shareholder value creation
+
+David Sacks: --
+
+Jason Calacanis: On Market
+
+Chamath Palihapitiya: Street -- -- in front of that Twitter building.
+
+David Friedberg: Best Tech CEO of the year, Mariah Agarwal.
+
+David Sacks: Hold on a second. So your theory is that he did such a bad job in terms of suppressing viewpoints and and censorship that he actually induced Elon to wanna buy the company so he could fix their censorship problem.
+
+Chamath Palihapitiya: No. My theory my theory is simpler than this, which is they got great representation to do a very bulletproof deal and it turns out that contract law still matters in the United States. And Elon did the right thing and just said, you know what? I'm gonna own this thing and probably double or triple my money. So I'm just gonna go and do it, and I'll do it for the benefit of everybody else.
+
+But my my point is more that they and the board had the wherewithal to fight because, you know, that they could have easily gotten intimidated and capitulated. And in doing that, whether they were right or wrong or good or bad is irrelevant to me, They represented shareholder values well, and they got shareholders paid in a moment where the stock market is still down 20%, 30%, 40% where Big Tech is down 50%. Some of these Big Tech companies are down 80%. These guys sold the company at a premium. And so that just you know, we just have to acknowledge that that happened.
+
+That's all.
+
+Jason Calacanis: Well, to just give you a little bit of background on Twitter historically, you know, in 2013, the stock was trading. at
+
+David Sacks: $69,
+
+Jason Calacanis: and it got sold for 54. Like, this company has been sideways for a decade, essentially, in terms of its market cap. And so but there's no doubt that I think Elon can turn this around pretty quickly and make it massively profitable, I think, and clean up the bot problem very quickly. If you can land 2 rockets at a time, create self driving cars, I think you can figure this out. This isn't rocket science, and Elon has done rocket science.
+
+So I think he's gonna figure it out. Right. Cool.
+
+David Sacks: Yeah. Fortis Worth, I think Elon's really excited about it. And -- He is excited. Yeah. -- there is tremendous potential at Twitter.
+
+I mean, the company's been sideways because it hasn't done that much in 10 years, but there's so much you can do with that product. It's just, you know, there's a ton of potential.
+
+Chamath Palihapitiya: think the best way to think about it is he bought a quarter of a billion miles for
+
+David Sacks: $44,000,000,000.
+
+Chamath Palihapitiya: And in the grand scheme of things, that is I think going to turn out to be pretty reasonably cheap, especially if he can layer in a few of his bigger ideas and And I think that those mouths the value of those monthly active users could probably double or triple pretty quickly.
+
+David Friedberg: Right. I think that was the so I just sent you guys this link from this analyst. And he said that Twitter was bought at a $172 per monthly active user compared to $81 per monthly active user at Meta where they sit today.
+
+Chamath Palihapitiya: So but that's but that's for a very different point which we can double click into because Meta is its own bag of you know, it's a little bit of it, unfortunately.
+
+David Friedberg: you know, a bit of a down the line where the attached to it.
+
+Chamath Palihapitiya: Yeah. And and I'll explain why because the the met the meta problem is it's it's a deep and a very dangerous situation that they've put themselves in which is why their mal values are this low But, you know, if you had done this analysis a few years ago, the trade was looking at Meta's mal values being so high where you would have said why isn't Twitter doing more? So I know that this this is a little bit in my opinion cherry picking. Yeah.
+
+Jason Calacanis: Well, I think making everything verified in a path to verification, which Elon has talked about publicly many times and payments You know, he's talked about publicly many times. Just those two things alone could make the experience of being on Twitter absolutely delightful. If everybody could verify themselves, this thing could turn around so quickly.
+
+Chamath Palihapitiya: I'll say I'll say what you're saying in a slightly more I think the most powerful change that Twitter could make today is there are 2 classes of users, people who are verified real world identity
+
+David Sacks: --
+
+Chamath Palihapitiya: Yeah. and people who want to stay anonymous. Correct. There is a 100% distribution firehose for people who are real. Mhmm.
+
+And there is a fire hose for fake people or fake names that you need to pay to amplify. Just that one simple change will cut through all the nonsense. Yeah. Because if you want to see where the money is being spent, you will be able to see very quickly because otherwise, there'll be virtually no distribution for anonymous fake people, and it'll force those people if they really wanna be heard and and that there's something valuable to say to spend against it.
+
+Jason Calacanis: Well, it's this really is about the Brig of Dunes, and Elon's been very clear about this. You know, it's pretty easy to get rid of the bots. And if people are opting in to putting themselves into the top class of verified users, well, that's a revenue stream. Right? And so all of a sudden, you know, I don't know how many millions people would instantly say, I'll pay for this for 5 or 10 bucks
+
+Chamath Palihapitiya: a month
+
+Jason Calacanis: to be verified.
+
+Chamath Palihapitiya: I think you're right. And I think, like, what we wanna do is, like, you know, no offense to all the people out there although I don't really care, but no offense. But you cannot use Twitter as a coping mechanism. Okay? Like, I get that life is hard or that, you know, Life hasn't lived out to your expectations or, you know, there's envy and whatever of other people.
+
+But to go out there and spew hate doesn't solve anything.
+
+Jason Calacanis: Are you talking about Brigadun's?
+
+Chamath Palihapitiya: Well, there's also just a lot of people that are just in general. They're just they're just mean. And I'll give you a perfect example. There was a woman that I saw on TikTok. And she's like, you know, been married for 13 years, mother of 2 kids.
+
+And she was she had a thing that went viral where she was talking about who's in charge her or her husband. And it was a very funny little thing. And so I've followed a couple of her videos just to see what else she had posted. And one of the videos was how she had some complicated health issues, which she was very public about PCOS and how it causes, you know, issues in losing weight. And she posted a pre and post picture of her, which takes a lot of courage.
+
+And she was like Brigadoon. And it's like, what is wrong with these broken people
+
+David Sacks: --
+
+Jason Calacanis: Yeah.
+
+David Sacks: --
+
+Chamath Palihapitiya: that have to give this woman a hard time And it just it to me, these social media channels are not coping mechanisms. They were never meant to be. And so if they have to go to Four Chan or 8 Chen or Reddit or whatever, better to sort of create these honeypots of hatred than to have it spew everywhere because it makes for the rest of us these platforms to be unusable.
+
+Jason Calacanis: Well, Saxx, you were the COO of PayPal with Elon and rule off and TL and everybody in that crew over 20 years ago. And verified, you understand pretty well because you yourself have been Brigaduned of late, and you've you've experienced this firsthand, the psychological torture that made you take a week off from the show, in fact. because you were so under duress. I'm kidding. You you had a planned week off.
+
+You're allowed to have occasion. Which of the two ideas is the bigger idea? Payments, making Twitter into PayPal, including that x.com, which was the original name of that was Elon's payment company, and he owns a domain x.com. which is a bigger idea. The payments or the verification, which is the bigger idea for increasing shareholder value.
+
+Which would you do first? I
+
+David Sacks: mean, Payments is an entire road map. Right? So there's a lot that could be done there.
+
+Jason Calacanis: Explain.
+
+David Sacks: Well, I mean, it's it's about I mean, you could layer on a lot of services on top of that. So it's not just, like, one feature. Look. I think they're both compelling in terms of where they could lead. I think what's amazing about Elon as an entrepreneur is he always starts with a mission, and then he figures out how to turn it into a great product and a great business.
+
+So For example, as SpaceX, the mission was to get to Mars to make life multiplanetary. You would think that'd be a spectacularly unprofitable business. But in the course of pursuing that mission, he figured out the launch business. And then the satellite business was Starlink, and I think Starlink's gonna be a phenomenal business.
+
+Chamath Palihapitiya: Phenomenal.
+
+David Sacks: And, likewise, with Tesla, he started it with his mission of moving the world to sustainable energy. Yeah. And in the process of doing that, he created the world's best car, not just the world's best electric car, but I just think it's the best car in the world. And Tesla is this amazing business today so far ahead of every other car company. So, look, I think what's cool about what Elon is doing is he's starting with this mission of restoring Twitter to being a free speech platform of being the town square it was always meant to be.
+
+And in the process of doing that, he's gonna figure out how to make Twitter into an even better product and into a great business, which is not today. I think Twitter's losing, you know, a few $100,000,000 a quarter. So there's work to do on all those fronts. but I think, you know, it's really impressive to see. And, you know, he's still operating at the top of his game.
+
+I mean, 20 years after PayPal, Some of us are just doing a podcast, but he is he's still, like, afraid
+
+Jason Calacanis: of accomplishment. Some of us are exhausted.
+
+David Sacks: I know. I know. We're tired. But --
+
+Chamath Palihapitiya: We're tired, and he's, like, working 68 hour a day.
+
+David Sacks: He's been leveling up for 20 years, and at this point, he's like a level 99 major something.
+
+Jason Calacanis: No. He's like a crazy
+
+David Sacks: It's that's amazing to to see.
+
+Jason Calacanis: Friedberg, the biggest issue I perceive in the short term for Twitter is going to be what to do with people like Trump and Kanye West or Yay. And, of course, that's all gonna seem like Elon is making those decisions as an individual as opposed to for the platform, etcetera. Should he let somebody like Kanye West? I'm sorry. Ye is who likes Klamself who is in the middle of an obvious manic episode back on the platform.
+
+Should he let Trump back on the platform? How do you think he should handle those 2 polarizing individuals specifically?
+
+David Friedberg: Look. I mean, I think this is what's gonna be really interesting to watch because there have been very successful, very inspirational, very intelligent, very creative entrepreneurs that have started and built generally kind of open platforms at the beginning, only to over time be challenged with the content that doesn't feel appropriate. And then they come back and they make the necessary kind of moderation guidelines, they make the necessary edits to the way the platform operates. This is how Google operated originally. You know?
+
+And then they ended up saying, you know what? If we're gonna be in China, we do have to create a censored version of the Internet, and they get that. and that was controversial. With YouTube, they've got a lot of censoring, and it was supposed to be just a generally open platform for anyone to use, and they were even Larry and Sergey were kind of flouting DMCA at the at the beginning, and they were like, it's not our job to monitor copyright. You have to file a takedown notice and they kind of weight their hands in here.
+
+Over time, they realized that that could actually damage and completely ruin the platform, and they had to go in and create guidelines and moderation systems. And the same was true of Eve and Jack and Twitter. The same was true of the founders at Reddit, and I don't know if you guys know, remember that period of time when Ellen Powell was CEO of Reddit, and she went in and cleaned up a lot of the bullying and harassment and nastiness that was going on on Reddit and She got a lot of controversy for why are you closing it down? Why are you censoring it? Elon is a reasonable person, and he's gonna be faced with unreasonable people on this platform.
+
+And when that happens, he's gonna have very tough decisions to make about what kind of platform he wants to have, what's the quality of that platform you're gonna need to look like, And then all of a sudden, he's gonna have to look in the mirror and say, did I step on the wrong side? And, you know, he's he's idealistic, and it's great. And it's wonderful. And I hope that he's successful. But to some degree, some amount of moderation is gonna be necessary to create a high quality product for less people.
+
+Jason Calacanis: Would you if you were in charge yourself, Friedberg, would you put Trump back on the platform and under what circumstances? And would you allow somebody like Kanye West back on the platform at some point, obviously -- -- personally? Yeah. You personally. Yeah.
+
+I'm trying to get I mean, it's hard to get on those
+
+David Sacks: 2.
+
+David Friedberg: Yeah. Look. My content moderation guidelines you know, it's a it gets very nuanced very quick.
+
+Jason Calacanis: What do
+
+David Friedberg: you allow people to say? What are you not allowed to say? And then if they violate them, is there the opportunity for a lifetime ban? think so. I don't think anyone should have a lifetime ban on these platforms.
+
+So I'm totally fine with
+
+David Sacks: -- --
+
+Jason Calacanis: do that for Kanye West who has been saying crazy anti Semitic stuff, which has real world danger. that's already started to spill over where people are putting up banners like Kanye's right about the Jews, and they're putting up banners, like, over the, you know, ten freeway, as you may have seen in Los Angeles, how would you deal with Kanye specifically in a manic, antisemitic episode that he's been in?
+
+David Friedberg: Look, I think the question is, anyone that's saying anything racist or what you know, whatever might be deemed kind of to fall in that category, there's a tagging mechanism, and you have to figure out how to create the tagging mechanism. Based on that tagging mechanism, The default is it's like when you go to Google and you search for stuff, they exclude porn. So all porn content that's indexed on Google's Index Servers, is index is porn, and it's default off. There's a safe search thing you gotta turn, I think, off or something. to access stuff that Google deems inappropriate.
+
+Chamath Palihapitiya: Sorry. How do you how do you how do you do that? Yeah. And so so
+
+David Friedberg: no. But I think I and by the way, when I worked at Google, we used to have pizza weekends where you would go into the office on the weekends. They give you free pizza, and everyone would tag you know, you'd watch porn, and you would tag porn. And so you basically go through the indexing servers. They show you images and Google images, and you click porn or not porn.
+
+And it was just like, hey. Come and volunteer. Come and help us do and there was all these engineers sitting in the freaking cafeteria attacking porn. But -- Actually,
+
+Jason Calacanis: did that happen to Saks, and he saw Tucker Carlson, and he said, yeah. porn. That's -- I think I think that's my personal point. Yes. So I think I think that's where a Moncler had.
+
+Yes.
+
+David Friedberg: I think the same mechanism is needed on these social networks. which is that you have to figure out a well, you have to figure out a way to use AI
+
+David Sacks: --
+
+Jason Calacanis: Got it.
+
+David Sacks: --
+
+David Friedberg: to tag content. And then think about them as cable just let me finish for one second. You think about them as cable cable stations on a cable company. So they're the cable company, and there's different stations. And you, as a user, decide what do you not wanna opt into and what do you wanna content?
+
+What content do you wanna exclude from your version and your experience of Twitter? And if you're okay with the stuff Kanye says, you're okay with the stuff Trump says, You can keep that stuff in. If you wanna exclude that type of content, it's it's excluded for you. And I think that's what Twitter ultimately has to become.
+
+Jason Calacanis: do you think, Chamath, would you put Trump back on the platform and seeing, you know, Kanye West having this manic episode and saying, you know, basically participating in hate speech explicitly. How how would you handle those 2 specific instances in
+
+David Sacks: 2022
+
+Jason Calacanis: going into
+
+David Sacks: 2023?
+
+Chamath Palihapitiya: I think that there has to be a way where nobody is banned forever. Okay. I think that it went somebody is banned temporarily. They can be banned for any reason that violates a term of service that's well understood and uniformly enforced. Got it.
+
+And I think that's the right of a private company. But there has to be a way to get back on. In the case of both of these folks, there should be a way to basically, you know, have because of the the step the the quantity of their reach, some sort of almost like tribunal or mediator that can understand what's going on Because if somebody's going through a manic episode, it's absolutely right to turn that off. I mean, these guys should have turned him off much Chamath sooner. Because when you're in the middle of a mania and I and I said this last week, like, you know, like, for example, like this this relative of mine, when they're in a manic episode, it's 60, 70, 80 emails a day and text messages, a 100 texts that I get, and they're honestly, they're vile.
+
+Jason Calacanis: Yeah. Okay. And they don't even remember them half the time. And they don't need to know.
+
+Chamath Palihapitiya: And and, you know, they go through paranoia. They go through mania. They go through the periods where they think they're completely right. They go through these periods where they look completely sane and normal. So so it's a tough the the most important thing when you have a family member in mental health crisis is to get the phone away from them.
+
+That is a weapon that only continues the loop and to re regulate this person. And then there should be a way to prove that you're back in a reregulated state to get these tools back. But I think that that needs to we just need to acknowledge. Like, there's just a lot of people with mental health issues. There's a lot of social media.
+
+There's a lot of damage that can be done. It's not to forgive these people, but it's to explain that in moments, you gotta shut these channels down and then give them a way to come back when they've reregulated.
+
+Jason Calacanis: Sacks, how do you think about it?
+
+David Sacks: Well, with regard to Trump, I don't know what the continuing reason is for him not being allowed on the plot form. Remember that when he was banned, it was considered to be a temporary measure because he was supposedly inciting a riot. Right? So I think incitement to violence is legitimate grounds for taking down speech. But once that breach of the pieces over, I don't know why it would become a permanent ban as opposed to a time out.
+
+So I don't even know how the companies continue to justify the ban on Trump except for the fact that they just think that he's a threat to democracy. Well, I don't think that's for social networks to determine is that who gets to participate? in our political process. So it's not actually the first thing I would do, but do I think that Trump should be allowed back? Yeah.
+
+I do. With regard to Kanye, it's a little more complicated because like you're saying, it's hard to know whether he's having a manic episode or he's just you know, being Kanye. What he's saying right now is probably not in his own interest and probably it would be in his best interest to have a time out. But what I would look for guidance here is there is a a supreme court decision. And my my general view on on the content moderation is that these social networking companies should be looking to for inspiration to stream court decisions because Stream Court's been wrestling for these with these issues.
+
+for 100 years, whereas social networks are just making it up as they go along. And there are 9 major categories of speech that the supreme court has said are not protected because they actually are dangerous speech. So for example, in this decision called Chaplinsky versus New Hampshire, which came out in 1942, The supreme court held that so called fighting words were not protected, and they defined fighting words as speech that tends to incite an immediate breach of the peace. through the use of, quote, personally abusive language that when addressed the ordinary citizen is as a matter of common knowledge inherently likely to provoke a violent reaction. So, you know, I would use that type of decision by the Stream Court as inspiration to say that racist, misogynistic, homophobic, and other sort of racial racial and ethnic slurs, Shouldn't be allowed on these networks because it doesn't do anything to enhance the public debate.
+
+Now there is a question like, could Kanye frame his arguments in a way that is still incredibly offensive to us, but doesn't use that slurs.
+
+Jason Calacanis: Yeah. For example, he could say, hey. here are the top 10 media companies. Here are the executives. Here's the percentage that are Jewish.
+
+And this is, you know, my concern is that this is here's a percentage of people who are Jewish in the population, you could some bullshit like that. And then you're like, okay. Did he say something anti submitted? Right. You know?
+
+And and you're kinda in this bubble area.
+
+David Sacks: And there's always gonna be edge cases and people are always gonna be pushing the envelope. And so listen, just because we find it offensive, And, you know, it's specifically offensive to me. That doesn't mean that it should automatically be banned.
+
+Jason Calacanis: Had you
+
+David Sacks: -- So I think slurs slurs banned are out, but But arguments, I don't know that we should banning entire categories of arguments. And and look, part of the problem here is that lots of people are hearing the arguments that Ye is making, whether he's making them on Twitter or not. And because he's there's a total ban, people can't really engage with him. on Twitter. And so he's not getting off ramped from this rabbit hole he's falling into.
+
+And nobody else who might be a fan of his is hearing the other side of the argument. So I don't know that it's ultimately in the long term interest of the town square to be banning you know --
+
+Jason Calacanis: The argument the, you know, ACLU and other people have is like, hey. You put a little sunlight on these bad opinions. At least everybody knows who has the bad opinions, and you can fight them paradox and we while we're talking
+
+David Sacks: I mean, do you really want these folks going to the dark web and, you know, being untraceable? There is some value in kinda knowing who's getting radicalized. And, hopefully, exposing them to other opinions in the same conversation that can all frame them.
+
+Jason Calacanis: Yeah. I mean, paradoxically, while we're talking, Elon just tweeted at 11:18 AM. Twitter will be forming a content moderation council with widely diverse viewpoints. No matter no major content decisions or account. Reinstatements will happen before that council convenes.
+
+he's gonna take the same approach that Facebook has. They have a council as well that Zuckerberg tried to set up. So I think he realizes this should be a thoughtful discussion.
+
+David Friedberg: Seth, gonna be on that council?
+
+David Sacks: I have no idea.
+
+Jason Calacanis: That sounds like a the worst purgatory you could ever be
+
+David Sacks: in is to
+
+Jason Calacanis: be the person who has
+
+Chamath Palihapitiya: to make these decisions.
+
+Jason Calacanis: Like, talk about a no win situation. I'm curious, Chamath. We talked last week about Kanye, and then Lex Freedman dropped his episode. Lex came at it with he pushed back on Kanye. I don't know if you watched some of the highlights.
+
+I saw some of the highlights. He pushed back pretty hard.
+
+Chamath Palihapitiya: I watched the whole thing.
+
+Jason Calacanis: Okay. So he pushed back really hard on the anti Semitic stuff, and we had a discussion last week. I said, hey. You can't platform this guy, but it looks like Lex had a specific Point of view, which is he has a friendship with Kanye of some level, and he wanted to try to convince him in this maniche that he's wrong about things, did do you think Lex succeeded and he should have done it? I obviously, we won't question Lex's intent.
+
+We know it's good.
+
+Chamath Palihapitiya: I I have had replace Lex with me and Kanye with my relative.
+
+null: Mhmm.
+
+Chamath Palihapitiya: Wasn't on television or whatever, but I've had these same kinds of I'll call them interventions. And like I said, this person goes through periods of lucidity, periods of mania, periods of paranoia, periods of anger. And so that's all I saw when I was watching this thing is just what a lot of people in the United States deal and the world deal with when they have relatives who are suffering from one of these things. And, you know, my relative has said the same thing. There's nothing wrong with me.
+
+You know, I don't need medication. I'm not on these meds blah blah blah. And I don't wanna judge because I don't know him. But I'll tell you in my situation, trying to Like you know, for example, like this person thinks that you know myself and one other person, like, we hacked into a computer system of the place that they worked to manipulate the financial records to point to this person as at having committed a fraud and has and then thinks that people are now listening and bugging the phone. I mean, the all kinds of stuff over and over again.
+
+And then sometimes they don't think that, and sometimes they do. And it's like
+
+David Sacks: --
+
+Jason Calacanis: It's magic.
+
+Chamath Palihapitiya: What I'm trying to tell you is, like
+
+David Sacks: --
+
+Chamath Palihapitiya: when you're not when you're in a normal state, a regulated state, and you're talking to somebody who's dysregulated, it's not 2 normal people having a conversation where you're trying to get them to see the logic of your ways. So again, I just think that it's not it's not a thing that should be litigated in the media. I think it is a thing that is where people that care for this person need to surround them and get them with a doctor to help them rebalance. In in in the in the case of our family, what it turns out is that this person needs to constantly be reached titrated the drugs for them to be regulated. That may be different for other people.
+
+And I don't know Kanye situation. So, anyways, I I see all that, and I and I and I and I go to my own family situation, which I'm which we actively deal today, and I don't have much of an idea of what to do about Kanye because it brings up too much stuff about what I'm dealing with in the real time with my own family.
+
+Jason Calacanis: I'm sorry you're going through that. And I yeah. Like I said, I mean, I think Lex had good intent. I don't think it's worth doing. He's he's -- -- from somebody.
+
+Chamath Palihapitiya: He's incredible. You know, he's a really beautiful empathetic person, Lex is in general. Yeah. So I think he tried to do the best job he could.
+
+David Sacks: So I saw I saw part of the the Lex interview. It was 2 a half hours, and I wasn't gonna sit through 2 a half hours of it. You know?
+
+Jason Calacanis: That's I
+
+David Sacks: went to the I went to the titles, and I was in the middle is, like, holocaust. I'm like Right. And I was like, okay. Let's just go right to the train wreck. Yeah.
+
+So I skipped into there. But anyway, I think the argument that that Lex should have made or pointed out to Kanye is, like, go see the the new Elvis movie. which is all about how an artist basically got taken advantage of by his business manager. And you'll see that this idea is a very familiar trope in the music business. But that manager, Colonel Tom Parker, he wasn't Jewish.
+
+He was a Dutch con man pretending to be a southern hic. So this can happen, and it's a very common story, and it's got nothing to do with the religion or race or whatever of the the business people. So and, in fact, the person in that movie who has the best advice for Elvis is BB King, who says to Elvis at a very early point in the movie, says if you don't do the business, the business will do you. And so look. I think Kanye and if again, if I was to sort of steal man and respond to it is, listen, You know, what you're describing is a pretty common of artists being taken advantage of is is a common issue.
+
+It goes back a long time, and it's got nothing to do with religion. And quite frankly, you know, there's probably a lot of other Jews in your life who've helped you. I mean, I wonder the last time you went to a doctor? Did you notice whether they were Jewish or not? You know?
+
+And so he's developed a little bit of a fixation here of noticing that some people are Jewish, but probably he's not noticing when other people are Jewish, you've probably helped him. Yeah. So that's probably like the argument I would made with him, you know, if I were conducting that interview.
+
+Jason Calacanis: And you make the argument to a person who's in a manic episode and there's there's no
+
+David Sacks: way to reach him. They don't
+
+Jason Calacanis: they don't even realize what their saying. They forget what they say when they get through the
+
+Chamath Palihapitiya: manic episodes. These these these paranoias don't tend to come up when you're in a regulated normal state. Exactly.
+
+Jason Calacanis: Alright. Let's talk about Meta. Brack Gerson was on last week. We've had an ongoing discussion about Big Tech entitlement spending. the number of employees at these companies.
+
+On Monday, Brad, I I think, you know, got a little worked up on the last pod maybe and dropped an open letter Some might say activist, he would say constructivist.
+
+David Sacks: 2
+
+Jason Calacanis: Zuckerberg and the team over there, hey, maybe pump the brakes on the CapEx, maybe do a riff, maybe become profitable. Anyway, the revenue and the re the 3rd quarter was a complete utter disaster for Meta, and the stock has plummeted and been under a
+
+David Sacks: $100
+
+Jason Calacanis: a share. I don't know who wants to start on this one.
+
+Chamath Palihapitiya: But -- Okay. Look. There's a lot to unpack here, so
+
+Jason Calacanis: I think
+
+Chamath Palihapitiya: I think we should take our time because I think one part of it is Meta.
+
+Jason Calacanis: k.
+
+Chamath Palihapitiya: But one part of it is actually about what we talked about a few episodes ago, which is, like, this big tech put, right, where they define the rules of the game on the field for every other startup. Mhmm. And I think the third part is just about, like, the era of big tech being over and what it means for the stock market. if if I think if you section it out in those three ways, Jason, we can have a pretty rich convo. I'd love to tee some of it up.
+
+Jason Calacanis: start? Okay.
+
+Chamath Palihapitiya: So let's let's start with Meta. So, Nick, can you please throw up Apple versus Meta for a second? And let me just give you guys the the talk track, and then maybe we can go from there. So when you look at Apple versus Meta, there's this really interesting thing that comes up, which is in 2016, you know, and we've said this before, you could not give Apple stock away. They were generating a ton of cash.
+
+It was sitting on the balance sheet. In many ways, Facebook was doing the same thing. And there was this famous I don't know if it was a dinner that ever happened, but that's how the the lore is told between Tim Cook, Carl Icahn, and I think Luke Maestry, the CFO. And in it, what Harlikon said is, listen, I have a below the line suggestion for apple. what does that mean?
+
+If you look at a p and l, you have your revenues. That's above the line. Mhmm. You have costs that's also above the line. And then you have your profits, and then it's what you do with the profits.
+
+So what he was suggesting is below the line after the fact he had no suggestions for how the business should be run. He just said, give us back the money, and we will reward you the stock price will go up. And what's interesting to note here is the black line is the performance of Apple stock as as they've given back and they've used a ton of their own balance sheet cash to buy back the stock. Okay? So they've spent
+
+David Sacks: $396,000,000,000
+
+Chamath Palihapitiya: since 2016 to buy back stock. In the same time, Facebook has spent almost a 100,000,000,000. Now Here is here's where you start to see the divergence. So you would have said, well, shouldn't Facebook's stock have reacted in the same way? And for a very long time, it actually looked like it was right until about September 21 and then obviously this thing fell off a cliff.
+
+And the reason why it started to fall off a cliff was somebody started to notice that hold on a second. Even though you're buying back all these shares, The bottom of the funnel. Right? You're leaking all of these shares to all of these new employees. Why are you hiring so many people?
+
+And this is when people started to uncover what was happening above the line at Facebook and is what caused this massive dispersion. So Nick, if you go to the first chart. So what has actually been going on above the line? Here's what's going on. If you look at the light purple bar, Facebook in the last two years have spent $25,000,000,000 on reality ads.
+
+And they said that they're gonna spend, you know, meaningfully more in 2023 and then sustain that investment for a while. So if you do a little bit of math, if they spent, you know, they spend around 4,000,000,000 a quarter right now, so 16,000,000,000 a year, that'll go to
+
+David Sacks: 25,000,000,000
+
+Chamath Palihapitiya: in 2023. and then they'll sustain that. What that means is that over this 12 or 13 year life of reality lapses we've seen it, these guys will have spent a quarter of a
+
+David Sacks: $1,000,000,000,000.
+
+Chamath Palihapitiya: And what I did here was I just wanted to understand Solaris. I wanted to understand a quarter of a
+
+David Sacks: $1,000,000,000,000
+
+Chamath Palihapitiya: in the context of other major leaps in humanity. So at the left, is what Apple spent in its entirety. By the way, these are all inflation adjusted dollars for today. Apple spent $3,600,000,000 to create the first iPhone. And what they did was they said every subsequent version of the iPhone would only be funded from the cash flow and profits of the generation before it.
+
+Right? So they used consumer demand as their guiding principle. So it was a very incremental approach, I 1, iPhone 2, and now we're at iPhone 14 or whatever,
+
+David Sacks: 13.
+
+Chamath Palihapitiya: But the point is, it took 3,600,000,000 to get that juggernaut off the ground. The Manhattan project will cost 23,000,000,000 in today's dollars to create the atomic bomb. Tesla in its entire life spent 25,000,000,000 to get to free cash flow profitability and they took this incremental approach as well. will create the, you know, the the coupe, the roadster, then the model s, then the model x. They iterated their way They used customer demand and all of that revenue to fund future growth, the cum spend on Tesla was
+
+David Sacks: 25,000,000,000.
+
+Chamath Palihapitiya: Boeing spent 32, Google and other bets has spent 40. The only thing that I could find in history that is comparable to what Meta has basically said they're going to spend is the entire Apollo program, which cost in today's dollars a quarter of a trillion as well. So the problem is that below the line Meta was doing the right things. Above the line, they've created I think an enormous set of pressures for themselves which is, you know, if you think about the Apollo program, this was 13 years of building rockets, getting to low earth orbit, then getting to be able to, you know, orbit the earth, then eventually building an entire infrastructure and capability to land on the moon and get back. So there was a lot of incremental progress there.
+
+I think what people don't understand is where is this quarter of a $1,000,000,000,000 going? And is it going to be a leap in humanity at the scale of the Apollo program because it now is becoming the single largest capital allocation program in Calacanis history. Nothing comes close. So I think that that is a really Interesting maybe jumping off point to talk about what's going on inside of this business. It's I think they're doing all the right things below the line.
+
+But there's this one major big red flag above the line that has to be probably better explained by them if they wanna have long term shareholders. And, basically, what happened was when people heard this, they said this is a dumpster fire rod here. Sacks, what do you
+
+David Sacks: --
+
+Jason Calacanis: Can I
+
+David Sacks: ask the question? What happened with the whole Brett Gersner's proposal? Was that actually discussed on the call
+
+Chamath Palihapitiya: on their earnings call? They, you know, they -- Ignored. Well, I I I don't wanna say it was totally ignored. Because I I do think that they should be given credit for a couple of things. I think that the core business continues to march forward.
+
+And they basically said, look. We're gonna slow headcount growth. Some teams will shrink. I think the problem is really in this reality labs The amount of investment that they're making is so outsized and so abnormal and doesn't compare to anything anybody's ever seen. I think everything else in the business seems to be actually quite functional.
+
+So the problem is that this above the line thing though has become so big it could sink the business. You know, it's very, very hard to see an investment case for a quarter of a $1,000,000,000,000 of money in the door or you really start to see something magical. Now they may have something super magical that nobody knows about, that they're going to unveil and say, see told you. And maybe there should be a set of outcomes where we plan for that. But the reality is it's, you know, $25,000,000,000 a year for the next umpteen years, and it's it's and I remember people
+
+David Sacks: -- -- 10,000,000,000.
+
+Jason Calacanis: Where did the 25,000,000,000 come from
+
+David Sacks: --
+
+Jason Calacanis: No. -- this number?
+
+Chamath Palihapitiya: It's 4,000,000,000 a quarter right now. So 16,000,000,000 a year. And they said that they're going to significantly increase it to 2023. So I just assumed there was a 50% increase. Maybe significant means a 100.
+
+But 16 goes to 25, and they said they're gonna keep going at that pace. And so if you run that out till 2030, that's how you get to
+
+David Sacks: $250,000,000,000.
+
+Jason Calacanis: You think there's a business here in VRAR, Saks? You think this will be the next platform? I guess that's a a key question to ask here. Yeah. I mean, I I like
+
+David Sacks: I actually like these Oculus products. I think it's a very cool product. The question is really just about the magnitude of the investment level. But I think there is a future in VR and AR, and it is a you've you've tried the Oculus headset before. It is, like, a very magical, you know, experience with software.
+
+One of the most magical that I've had, the question is just we're talking about magnitude and time frame.
+
+Jason Calacanis: And and use case, I think, also comes to mind for me, Zach. I everybody seems to, you know, try and then say, oh my and then say goodbye to these headsets. Like, people buy them. They them, and they're like, this is incredible. They but there's no use case for them.
+
+I see very few people who use it on a regular basis.
+
+David Sacks: We just invested in a company that is creating professional flight simulators using VR as a component. And these are like -- Education. Yeah. I think training is actually a huge use case.
+
+Jason Calacanis: Huge. huge.
+
+David Sacks: And by the way, these are not like video game flight simulator programs. These are actual they create physical cockpits with knobs and dials and stuff. It's just that the pilot is using a professional grade VR headset. And so they're able to load, you know, a lot more training programs and scenarios, and they're able to train on more planes. They can, like, change up the cockpit.
+
+By the way, the the cockpit's on gyros, so it actually moves around.
+
+Chamath Palihapitiya: Let me put a dachshund in a different way. I think that we should assume that VR and AR is gonna be a really important part of our existence. And I do think that, as David said, many of these experiences are magical. I think what investors reacted to was spending $25,000,000,000 a year needs to be measurable somehow. And I think what they said is the things that we're seeing don't necessarily tell us that this bet is gonna make any sense at that level of spend.
+
+So if you were spending 2,000,000,000 a year, or 3,000,000,000 a year, I don't think people would have said anything. It's just the magnitude relative to the progress that's being demonstrated publicly. And and that's the thing that I think the Tesla program got right. The Apple phone program got right. The Boeing program even the Apollo 13 program for that quantum of spend.
+
+So it's not to say that you can't spend a quarter $1,000,000,000,000 over the next decade, but you gotta eat what
+
+Jason Calacanis: you kill. You have to be
+
+Chamath Palihapitiya: able to show progress in a way that says, oh, this this investment is tracking. Freeburg.
+
+David Friedberg: I think the biggest issue he's having is he's trying to build a moonshot that you'll only get to see when I'm done. It's like, hey. I'm behind the curtain over here. I'm Willy Wonka. I'm gonna come out with the most amazing the bar in 10 years, and after I spend a $100,000,000,000.
+
+But don't worry. It's gonna be awesome. Trust me, shareholders, it's gonna be amazing. And with consumer products in particular, not guys, you keep saying
+
+Chamath Palihapitiya: a 100. It's 250. Yeah. Whatever it ends
+
+David Friedberg: up being. In general, I think consumer products, you wanna see them in the market, and you wanna iterate to success. Tell me one consumer product that launched and didn't iterate after launch and didn't kind of evolve over time in a way that responded to what the market was telling the builder But
+
+Chamath Palihapitiya: Friedberg, in fairness to them, they're doing that too. It's just I think what people can't square is we see the next gen oculus' And then we see the spend, and we think that they're upside down relative to what we're seeing in terms of progress. I think that's what people are reacting to.
+
+Jason Calacanis: If you were spending 5,000,000,000 a year, this wouldn't
+
+Chamath Palihapitiya: be an issue, Chamath. Right? and nothing burger.
+
+Jason Calacanis: And nothing that there's people would say good idea. Throw a long ball.
+
+David Friedberg: I think that there's 2 kind of ways to think about the distinct things that they're building. 1 is this hardware platform with Oculus and a better kind of experience for immersive experiences, whether that's VR or AR. The second is what's all the software layer look like and what goes on in that platform? That's where this thing seems to be pretty short and where people seem to have a lack of confidence and conviction. The hardware seems super interesting.
+
+But I gotta tell you Epic Games just raised money earlier this year at a $31,000,000,000 valuation. If Zuck was a smart guy, he would go to Tencent and cut him a check and buy the whole for 50,000,000,000 and, you know, buy those guys. Because that's a platform that has a couple 100,000,000 active users is making money has a really deep immersive but two dimensional experience. It's not 3 d. It's not on on VR.
+
+Jason Calacanis: Right.
+
+David Friedberg: And on top of Fortnite and on top of their their engine that they've built, there are just countless experiences and worlds and interactions and models that exist today that are already active that are being iterated that have been evolving for years And if you look at where Fortnite and some of the tools and experiences that have been built into Fortnite over the past couple of years, sit relative to when Fortnite was first launched. I don't think that Tim Sweeney and that team would have ever said, hey. This is where we're gonna be in a couple of years. This is what we're gonna be doing. It was part of an evolutionary experience in building a great platform and having an engaged user base.
+
+And, unfortunately, there doesn't seem to be a great engaged user base in the software layer of what he's built here today. making it very difficult to track a path to get consumer feedback and to identify where that goes over time. The hardware experience totally understand that that takes time to build something incredible. Also, it should be in the market and getting iterative feedback. But, really, that that that software piece is what would feel short.
+
+Chamath Palihapitiya: To your point, I think that that's another great example of a a below the line decision that they could have made with all of this money. You know, if you compare what Brad asked Facebook to do on Monday versus what ICON asked Apple to do in 2016, you know, ICON basically said, Just make this below the line change and everybody will be happy. It's a do no harm solution. None of us are getting in the way. We're not telling you how to run the business.
+
+The thing that I think that, you know, what Facebook had to react to was Brad's suggestions were fundamentally above the line. It's like, you know, firing 20% of the people or 30% or changing the capital allocation would require some changes to strategy. And I think this is a a good moment to recognize it as as much clarity as Brad's letter had and as much sense as it probably makes to outsiders looking in. The minute you have to tell companies to change above the line. It's just a good reminder to me that, no.
+
+It's not gonna happen because these folks will not want to make those changes. They don't -- -- saying
+
+Jason Calacanis: Zuck won't make the changes.
+
+Chamath Palihapitiya: I think it's natural human psychology. I think you wanna make those changes yourself. You don't wanna be told what
+
+Jason Calacanis: to do. Got it. Sachs, what do you think this is gonna do to governance in Silicon Valley writ large?
+
+David Sacks: Probably nothing.
+
+Jason Calacanis: Really. So you do. It's not gonna change anything.
+
+David Sacks: Well, it is it is interesting. If you look at Elon's Twitter deal, there is no dual class. Everybody has this is one class of security. This is one type of stock. So it's simple majority voting.
+
+Elon actually had the choice of doing dual class, and he decided not to. So that's pretty interesting. So if people wanna follow Elon's example, then they would, you know, not not necessarily go for dogfight. --
+
+Jason Calacanis: doesn't have superstars either, and you said it many times. If you wanna vote me out, you can vote me out.
+
+David Sacks: Right. You don't
+
+Jason Calacanis: think I'm doing
+
+Chamath Palihapitiya: a good job. So He's putting his -- SpaceX either.
+
+David Sacks: Yeah. He's putting his neck on my eye.
+
+Jason Calacanis: And
+
+David Sacks: --
+
+Chamath Palihapitiya: I don't know. I has a SpaceX show that I have no idea.
+
+Jason Calacanis: I also know the SpaceX class structure.
+
+Chamath Palihapitiya: Yeah. I can't remember.
+
+David Sacks: SpaceX isn't public yet, so maybe it doesn't matter. Like, they haven't reached that decision point.
+
+Chamath Palihapitiya: Yeah. Yeah. Yeah. Yeah.
+
+Jason Calacanis: I will tell you, I just I think Starlink has such a huge opportunity. I just got Starlink for two locations as a backup. because, you know, you lose your Internet a couple times a year, and you can get these routers now that'll fail over. So since I'm doing business, like, I can't really lose the Internet. So for a thousand bucks a year, I can have Starlink as a backup, and I started using it.
+
+And the speed is getting pretty compelling already. Like, Zoom calls, you can't tell the difference right now most of the time. and certainly for web browsing or watching a movie, you know, it just works. So I I could see many companies putting in Starlink. Even if they have a fiber line or whatever, just as a backup, that business alone could be ginormous.
+
+David Sacks: Just to provide both sides of the story here. I mean, the reason why dual class emerged and was seen as viable --
+
+Chamath Palihapitiya: Mhmm.
+
+David Sacks: -- is that if you look at the historic performance of Internet companies, the ones that have done the best, performing the best are the ones where the founder stays involved for a long time. And the ones where the founder checked out like, after a few years and hired professional CEO, those are the ones that went off the rails. It happened again and again. So there there is an argument for dual class in the sense that you keep the founder involved, and you avoid -- That's not that's not what -- -- avoid a power struggle.
+
+Chamath Palihapitiya: That's not what happened.
+
+David Sacks: Well but that was why it was considered acceptable.
+
+Chamath Palihapitiya: Well, I think it was considered acceptable because in the Google Bake Off, all these banks were clamoring so hard. And, you know, there were 2 vectors of iteration. One vector was on the way that Google wanted to do this IPO process. They pick Credit Suisse. They did this Dutch auction.
+
+The other one was the bankers basically pitched them on a dual class voting control structure.
+
+David Friedberg: And once Morgan
+
+Chamath Palihapitiya: Stanley. And once Google got it, everybody else was able to copy because all the bankers realized that if you wanna win a bake off, you're not trying to win over the CFO. You're actually trying to win over the CEO and giving that person control turned out to be an incredible commitment and a way to win the deal. And so I actually think it was never a governance issue or a reflection of how value was created, it was just basically a feature that you that one banker used in an IPO bake off to try to differentiate versus another. This is why like I said, like Elon has never cared about that stuff because it's like, if I'm not doing well, vote me out, which is so clarifying because he realizes that that's actually the best check on him making bad decisions.
+
+You know? And I think part of it is why he's done so well. You know, one class of thought he was able to negotiate an incredible compensation package. and it's he's he has clarity along the few things of the business that matter.
+
+David Friedberg: But I think he's also more compelling than some of these other guys. And there may be some degree of feeling like this is a mechanism that other people need that Elon has a degree of confidence and a degree of charisma and and salesmanship that gets him what he wants. I just wanna read you guys the excerpt from Larry and Sergey's founder's letter from the IPO in 2004. As a private company, we've concentrated on the long term and the system does well. As a public company, we will do the same.
+
+In our opinion, outside pressures, too often 10th companies to sacrifice long term opportunities to meet quarterly market expectations. Sometimes, this has caused opportunities to manipulate financial results in order to make their quarter, and they go on and on and on, and they say, look. You might ask us how long is long term. Usually, we expect them in a couple of years. and they go on.
+
+Many companies are under pressure to keep their earnings in line with analyst forecasts. Therefore, they often accept smaller, predictable earnings, rather than larger and less predictable returns. Sergei and I feel this is harmful, and we intend to steer in the opposite direction. I think that the statement that they made really resonated in Silicon Valley at the time, particularly during this era of what people were calling web 2 and the Internet was being rebuilt. All these businesses were starting to thrive, and it was like, we have this massive road ahead of us, this long road ahead of us, and we can really change the world.
+
+But in order to do it well, in order to do it effectively, we have to, as entrepreneurs, as engineers, be able to have the freedom to operate for the long term. I don't think there's anything get stuck in the short term. But I think that that -- Yeah. -- nothing to
+
+Chamath Palihapitiya: do with anything. That there was no pressure on them. It's not like they shied away. It's not like that super voting control allowed them to make one seminal decision.
+
+David Friedberg: There were quarters chum off where Google was getting a lot of heat for the amount of money they were spending on because they were building their own data centers. They were building their own servers. They were building their own, eventually, DRAM. They started to build their own switches. every element of how Google built a competitive advantage over time was difficult for analysts to understand -- But you're not saying the
+
+David Sacks: -- --
+
+David Friedberg: for investors understand.
+
+Chamath Palihapitiya: You're not saying the obvious thing. The reason why they were allowed to do it in the end was because more and more users used their product because it was better and better. and they consistently meet and beat every expectation. This is not I didn't need to use this option.
+
+Jason Calacanis: This was not -- They didn't need to call this option.
+
+Chamath Palihapitiya: This is not company that went back and forth between meeting and missing expectations. Okay? They were up into the right.
+
+David Friedberg: They were. They were up into the right is correct. That is the general principle. but the time to return, the ROIC, the time frame to hit their ROIC targets was long, and it was hard for people to get that when they bought YouTube. True.
+
+Chamath Palihapitiya: That is long. -- YouTube, They bought YouTube,
+
+David Friedberg: and they spent tens of
+
+David Sacks: 1,000,000,000
+
+David Friedberg: of dollars investing in YouTube before generated cash. I get it. I think that that would yeah.
+
+Chamath Palihapitiya: But you're not math you're not what you're saying is not true. It is not mathematically true what you're saying. There was no 13 year ROIC play that they executed on, not true.
+
+David Friedberg: And you can just -- I disagree.
+
+Jason Calacanis: They may have to change in.
+
+David Friedberg: They put their own they put their own fiber optic lines across the oceans. The CapEx
+
+David Sacks: --
+
+David Friedberg: I understand. -- scrutinized not well understood. I get it. You can read but, Jamat, you can read the analyst reports and see how difficult this was.
+
+Jason Calacanis: All
+
+Chamath Palihapitiya: I'm asking for you to do is look
+
+David Friedberg: at -- They had voting shares. It's what gave them the ability to do this.
+
+Chamath Palihapitiya: Bullshit. I think that if you look at their performance, their EBITDA margins, and their ROIC was exceptional when they were making those investments. In fact, I would say the opposite. I would say that they were surprised by high how by how high quality their business model was They were and now we have the ability to do it because we have all this cash we didn't expect. And we should probably bleed off cash so that we don't show 50% gross margins to raise all of the attention of regulators and everybody else.
+
+David Friedberg: And so what do you think Zuck is doing? What's different today?
+
+Chamath Palihapitiya: I think that they have an incredible core business.
+
+David Friedberg: because he's got good business, good EBITDA margins, good revenue growth. What's different?
+
+Chamath Palihapitiya: They have an incredible core business and they have decided for whatever reason to make an enormous bet. And that bet could be a very good bet. But the way that you make a bet and you said this well is you have to look at incremental progress and you have to demonstrate that all of these bets make sense because the problem is when you could compare it to the Tesla program Look. Tesla is reinventing an entire category, 1,000,000,000,000 of dollars of energy generation and transportation, but they did it on an 1 year of meta reality lab spend. Apple reinvented an entire compute platform on 1 quarter of Meta's reality lab spend.
+
+That's not a judgment. That's just a numerical observation. So if you wanna get people on your side, You just have to be able to double click into that in an elegant, articulate way and say, here are all of these things that justify $25,000,000,000 a year.
+
+Jason Calacanis: Hey, guys. Let me show you a chart. Here's a chart of Alphabet's capital expenditures by quarter. And here is there, revenue. The blue line -- At $7,000,000,000 right now.
+
+This is my point. Yeah. Based on
+
+Chamath Palihapitiya: They struggled to find ways to spend money. Exactly.
+
+Jason Calacanis: I mean, literally, they they created project loon. They were gonna do balloons. Guys, they
+
+Chamath Palihapitiya: wanted to build hybrid. They wanted to build -- They wanted to build they wanted to build at one point a ladder to the moon. A ladder. They thought they could build -- -- from 10 inches -- It was an elevator, but, yeah, Whatever. And the elevator is in that 7 point.
+
+David Sacks: --
+
+David Friedberg: decline there. Right.
+
+Chamath Palihapitiya: The elevator was in the purple line. Yeah.
+
+David Sacks: And somewhere in there, they spent a 1,000,000,000 or whatever on mass and it end up being a phenomenal asset when the whole world moved to mobile.
+
+Chamath Palihapitiya: I think you're not saying the obvious thing.
+
+David Friedberg: We spent a lot less on than
+
+Chamath Palihapitiya: We're not we're not we're saying the obvious thing, which is great leaps of progress in humanity, are not correlated to dollars all the time. In fact, most examples are the exact opposite, which is it's more about small and extremely nimble and talented management teams that generate human progress. And, again, if you go back to that first chart of Apple versus Meta, you know, the fact that you've hired so many people to work on a category with so much money, it just violates a lot of pattern recognition that people have historically seen. So all I'm saying is maybe this is a great bet. They just need to do a better job of explaining.
+
+Jason Calacanis: This would have been so much easier if you had just put charts over.
+
+Chamath Palihapitiya: Sorry. Hold on.
+
+Jason Calacanis: Hold on. Just I'm saying this could be this could've been such a better transition. He should've put Cheryl Sandberg as CEO of the Facebook Corporation. He should've became CEO of Meta. And then he should have ran that other business to print even more profits.
+
+And then if you look at some of their forays into building a super app They added Facebook Marketplace to Facebook, and it was a huge hit. They started to pull the e commerce string over at Instagram. It started to work. There's just no focus on those products. If you look at the Facebook collection of billions of users, what apps could you add to that you know, whether it's payments, they did the whole crypto thing, they gave up on that.
+
+It seems like there's no leadership on the Facebook side that actually wants to take swings over there. They just are obsessed with this one thing. It makes no sense to
+
+Chamath Palihapitiya: me. I I think that there's probably part of it, which is that, you know, when you're working on a thing for a long time, There's a certain personality type that loves the mastery that comes from working on the thing for a long, long time.
+
+Jason Calacanis: Yep.
+
+Chamath Palihapitiya: And then there's a different personality type that likes more shiny new things. And you kind of have to have a balance of all of those different people. And so maybe what we're seeing as well is that, you know, you're right. Maybe the boring business was just labeled too boring internally, and there wasn't enough heat around wanting to work on it forever.
+
+Jason Calacanis: Nobody wanted to keep grinding.
+
+Chamath Palihapitiya: And so you wanted to throw these big hill marries All I'm saying is you just need to explain the hill Mary.
+
+Jason Calacanis: Alright. Let's let's
+
+David Sacks: --
+
+David Friedberg: By the way, let me just ping you on this. So the meta spend in the quarter relative to their revenue. It's about 15 the the virtual reality stuff. It's about
+
+David Sacks: 15,000,000,000 15%.
+
+David Friedberg: Does that sound right?
+
+Chamath Palihapitiya: I don't know. But they said it was 4,000,000,000 this quarter.
+
+David Friedberg: Yeah. So 4,000,000,000 out of 27 of revenue. So it's about 15%. And Alphabet's last quarter revenue was
+
+David Sacks: 70,000,000,000.
+
+David Friedberg: And they spent about a 1,000,000,000 1,000,000,000 -- Let
+
+Jason Calacanis: me show you. I actually I actually have this chart handy because I was talking about it on this would start
+
+David Friedberg: up -- Which is 1.4%. So on a relative basis, Alphabet is spending 1 10th of what Meta is per dollar earned or top line revenue earned. on their other bets category. So, Shamov, do you think it's a relative spend problem that because they're spending ten times as much as a percent of revenue that it's causing so much heartache even if it is directionally correct?
+
+Jason Calacanis: If you wanna see the CapEx versus revenue, here's that on the screen right now.
+
+Chamath Palihapitiya: Yeah. No. We know we know what -- We know what
+
+Jason Calacanis: we haven't shown. This is Google end meta on the same chart. The blue line on the red on the bottom, 9,000,000,000 in CapEx for Facebook,
+
+David Sacks: 7,000,000,000
+
+Jason Calacanis: for Google.
+
+David Friedberg: Is this your new, charting tool that you guys have built?
+
+Jason Calacanis: Yeah. No. No. We just be I've been doing it on this weekend start ups all the time. Yeah.
+
+null: It's -- What what do you use? What is this?
+
+Jason Calacanis: Yeah. Actually, beep it out because I don't wanna give
+
+Chamath Palihapitiya: them a free spot.
+
+Jason Calacanis: Yeah. I
+
+David Sacks: --
+
+Jason Calacanis: I'm not giving them a free promo. Oh, they
+
+David Sacks: didn't let you invest?
+
+Jason Calacanis: Whatever. I mean, they're they
+
+Chamath Palihapitiya: they wanted
+
+David Sacks: to sponsor, man. -- comes out. They didn't let him invest.
+
+Jason Calacanis: No. No. They've been around forever. They've been around forever.
+
+Chamath Palihapitiya: Oh, okay. a good product. I've used that.
+
+Jason Calacanis: Just a good product. Listen, if we're gonna promo stuff that's gonna be call in or -- Nick, can you throw up the histogram? Supergut. Supergut. This is super gut charts.
+
+So, like, this is a new charting feature on Colin.
+
+Chamath Palihapitiya: I think the problem is look. Here's the problem. Let's just say that you're an analyst that works at a large hedge fund or a mutual fund. And you woke up on Wednesday and you, you know, had a decent day and then you went into the earnings call believing that, you know, there's a this is there's a value play here, and there's a lot of upside I think there is actually. You know?
+
+This company can throw off of an enormous amount of cash. But then what you hear is Okay. We're spending 4,000,000,000 a quarter. That's going to go up materially. And then we're going to keep
+
+David Sacks: 23
+
+Chamath Palihapitiya: spending levels roughly the same. into the future. So then you have to go back and build a model. You're going to be hard pressed to not get to this number. Maybe you don't get to 250.
+
+Maybe you get to 200. My point is all of a sudden you have to go back into your, you know, portfolio manager and say, you know, they're gonna spend all of this you know, after tax cash flow on this stuff or sorry. Not after tax cash flow, but, you know, below the you know, above the line spending on this stuff, which won't come back to us as shareholders. we're gonna dilute the stock 2 or 3 percent a year. So that's another 20% dilution.
+
+And it just becomes what I again, I've said this before it you you move the stock into what's called the too hard bucket. You know, from the it's obvious to wow. That's really tough, and I'll just take a wait and see approach. You know, I think yesterday, there was a quarter of a I think a quarter 1,000,000,000 shares that traded hands of Facebook, just a ginormous number. And so, you know, I think it's You
+
+Jason Calacanis: think that's tax loss harvesting too? We're at the end of the year. Maybe some people wanna take the
+
+Chamath Palihapitiya: there's tax loss harvesting for individuals. By the way, there was a couple comments, which we should talk about and explain what tax loss harvesting is. But a bunch of these mutual funds year ends are actually October 31st. So to your point, Jason, you know, the stock basically gets decimated 20, you know, 25% in a day The t rows and the fidelities are like, alright. Book the tax loss and be done, and we'll we'll we'll look at it next year quote unquote next year.
+
+So, you know, if you put on the spread trade so we talked about the spread trade. There was a big hedge fund manager that, you know, November 6th, right, when we were basically calling the top of the market and told people to sell, One of the traits that he put on, Nick, if you wanna just throw it up, was this long Google short meta spread trade. He called to tell me that, you know, he closed it out yesterday. This is how that trade did. So, yeah, there was just a lot of folks that just kind of, like, went to the exits and said, you know what?
+
+We're kinda down for the short term. I just think that it's it's a it's a moment in time where those folks have to realize that they just have to explain a little bit better how they wanna spend the money. and show a little bit more incremental progress that justifies that level of spend. Otherwise, people will be a little skeptical. They'll build their own histogram.
+
+and it'll violate too many rules. And so it goes into the too hard bucket.
+
+Jason Calacanis: Okay. We got macro. We got Ukraine. And -- Well, I think
+
+Chamath Palihapitiya: I think the you should talk about Big Tech because Amazon puked as well, Jason. The can you just throw up the Big Tech chart? because I think, like, you guys should see this because I think this is very important for Silicon Valley.
+
+Jason Calacanis: Amazon reported their q 3 earnings yesterday, Thursday. Total revenue 127 of 15% year over year, 5 percent quarter over quarter. Net income was 2,900,000,000, and they're predicting they're they're giving slower guidance going forward.
+
+Chamath Palihapitiya: I mean, what's incredible on this chart is that, you know, when when everybody talks about being long, the S and P 500, it was always really a proxy for being long Amazon, Facebook, Google, Microsoft, and Apple. And at the peak, you know, in May of this year, it was still, you know, 25¢ of every single dollar of the S and P 500. Were these 5 companies. And, you know, we always said the market bottom will be when the general's, quote unquote, get shot, you know, to to borrow a phrase from Gavin Baker. And it looks like the generals have been shot.
+
+Yeah. And what's incredible is this week, every single one of those companies other than Apple really reported pretty crappy earnings they got totally taken to the woodshed. The percentage of the of these companies as a percentage of the S and P is now, you know, off by 500 basis points. It's down to 20%, yet the markets are ripping higher today. So I think it's kind of what we talked about 3 weeks ago.
+
+Like, the bottom is kind of in for the short term. You know? So it's really exciting, Archie, to see. I think this is the point where you have to now start to get pretty destructive about where things are going. Because if this stuff could not bring the market down, it's hard to see something other than an exogenous event probably some Russia Ukraine event.
+
+Really having a negative impact. So to me, I'm kind of like I don't know. It seems like pretty bullish from
+
+Jason Calacanis: well, also GDP was 2.6%. So, I mean, the the this this very weird conflicting data, we had 2 negative quarters of growth. We're in a recession. Then we have The 3rd quarter is up 2.6%. So okay.
+
+But I
+
+David Sacks: remember, Jason, I I said that we were gonna have a double dip. That was Sure. That was most likely thing. So we had this sort of mile technical recession based on nominal GDP growth, not being bad, but simply not quite keeping up with the inflation rate. Yeah.
+
+Now things are a little bit better, but I still think the huge recession is to come next year because all the interest rate increases we've seen. So the Fed is, you know, pedal to the metal on interest rate increases just like they were pedal to the metal on printing money. And so first, they, you know, they were too loose, and now they're probably being too tight, too fast. So I think we're headed for a huge recession next year. And I think you're seeing that in in the softness of all these gas.
+
+Jason Calacanis: Yeah. Yeah.
+
+David Sacks: The -- Look at look at the look. The mortgage rates right now. Something like 7.1%
+
+Jason Calacanis: A mortgage rates are crazy. They broke the backs of the housing market. The inventory and prices, inventory shot up Prices have shot up. New mortgages have gone down. And, you know, we we talked about job openings.
+
+Here's the the Fred chart for job openings real quick. You can see the the peak we were talking about. We were wondering if that would come plummeting down. Well, here it is, folks. Yeah.
+
+Plumbing down from 11,000,000, losing a
+
+David Sacks: 1,000,000
+
+Jason Calacanis: in a month. Job openings coming, smashing down. There's the Fed Fund. Right? You know, that's a pretty high ramp.
+
+So you think double dip recession? What do you think? Friedberg, Chamath? in terms of what 2023 looks like. You're you're sort of saying, Tremoth, a bottom is forming.
+
+I kind of agree with that.
+
+Chamath Palihapitiya: I think the stock market is going up. then it'll go back down because I think what David said is right. But for the short term, this thing is going up.
+
+Jason Calacanis: short term up and then we'll be paying -- We've
+
+Chamath Palihapitiya: generally been positioned for it to go up. And and at some point, we will reverse and position for it to go back down, but it's going up.
+
+Jason Calacanis: Sax, it seems like you took a week off from the all in podcast and people stopped talking about Ukraine. You wanna give us an update? I mean, obviously, the war's not over, but it does seem like it it somehow has fallen out of the public's consciousness a bit. I I don't know if
+
+Chamath Palihapitiya: you disagree.
+
+David Sacks: If I go that far, there was the big event in the Ukraine war debate this week was that the House progressive caucus put out a letter signed by 30 progressive members to merely suggest that while we continue to fund Ukraine on a virtually unlimited basis, we also, in parallel, open up a diplomatic track with Russia to mitigate against the threat of us being drawn into a the war and specifically a nuclear war. And just that very, I'd say, anodyne letter, that very tepid sentiment, really, they weren't questioning in any way that providing, again, of virtually unlimited support to Ukraine, that met with such a fierce reaction on social media and in the traditional media that I think all but one of the signatories recanted or walk back the letter. And Kudos to representative for not being one of the people who recanted. He sat tall, and gave an interview on CNN and MSNBC saying, why has diplomacy become a dirty word? I voted for every single appropriation to give aid and weapons to Ukraine.
+
+I'll continue to do that, but I don't see a problem with us maintaining diplomatic relations. We might need those to avoid an unwanted escalation.
+
+Jason Calacanis: Well, and here we are.
+
+David Sacks: Yeah. kudos to him for standing tall, but it's amazing to me that the progressive caucus, which used to be one of the groups in Congress that questioned American involvement in foreign wars like the Iraq war, they basically they they have moved off that And they they threw in the towel so quickly on this. It was really kinda pathetic to see.
+
+Jason Calacanis: I mean, it really, like this is back to Shakespeare. Like, politics makes for strange bedfellows. You find yourself aligned with the most left part of the Democratic Party in trying to just say, hey. maybe we should negotiate peace a little more formal.
+
+David Sacks: -- to pursue the right foreign policy, and I don't really care which party has the
+
+Chamath Palihapitiya: right idea.
+
+null: You said you would
+
+Jason Calacanis: you would actually donate to anybody who is pushing for that. So did you actually make any I mean, I I
+
+null: I -- It
+
+David Sacks: just happened, but I I I plan to donate to members of both party who push for a correct foreign policy, which I believe needs to be a little bit more restrained, a little bit more questioning of what is in it for the United States, and we need to be careful about overextending ourselves we need to ask what is in America's vital interest. And listen, you can support -- --
+
+Jason Calacanis: AOC becoming to the with a with AOC being doing a oh, she she's proud.
+
+David Sacks: So you're it. So she's one of the ones that recan
+
+Chamath Palihapitiya: What what
+
+Jason Calacanis: do you think happens in a situation like that? How do they get them to recant? Yeah.
+
+Chamath Palihapitiya: Yeah. Like, why what is the point of recanting something that was so benign? It's
+
+David Sacks: not Totally.
+
+Chamath Palihapitiya: No. But what what do you think like, what what's happening behind the scenes? Like, why are people so afraid to say that, you know, you can be in support of Ukraine, but also still try to find a resume. Why was that turned into such a scarlet letter?
+
+David Sacks: It's a great point, and I think it just shows the heat right now on the issue. Here here here's what I think --
+
+Chamath Palihapitiya: Does it does it do that, or does it just show the progressives as just kind of clown tones?
+
+David Sacks: I mean, it's it's kinda sad. I mean, Jayapal, who was sort of the leader who put out the letter, threw her own staff under the bus, And I guess there was this snafu where the members all signed this letter in July and then held it for a few months, and then they put it out tweaks for the election. I can see why that timing didn't make sense. I don't know why, like, they really sit now, not 2 months ago, not 3 weeks from now after the election, I can understand all those political considerations. But once you put the letter out to stand by it, don't throw your own staff under the bus.
+
+Because like you're saying, the letter was really a pretty anodyne statement of, hey, listen. Do you think we can just have diplomacy on a parallel track at the same time that were arming Ukraine. I just don't see the downside. But, look, here's why I think they took so much heat is there's a lot of people on this issue who start with the end result of what they want. And the end result that they want is that Putin and Russia leave Ukraine with their tail tucked between their legs, and they basically don't get one square inch of Ukraine.
+
+They believe that is the only acceptable moral outcome here. And they may be right about that. But then what they're doing is they're kind of reverse engineering all the beliefs that they based on that outcome, that moral outcome they wanna get to. So for example, for the longest time, you heard things like Putin is definitely bluffing. about using nuclear weapons?
+
+Well, how do they know that? They don't know that. They can't say that for sure, but it's what they wanna believe because if you believe that nuclear war is a possibility, you might not go all the way for that maximalist position of the only acceptable outcome here is Russia leaving with his tail tuck between his legs. And hold on. And and I and I think I think the same thing is happening here with diplomacy is people who want a certain result in the war are afraid that diplomacy might result in something less than that.
+
+That's not a reason not to engage in diplomacy, and it's not a reason to deny the potential of this war to spin out of control potentially into a nuclear war.
+
+Chamath Palihapitiya: Saks is like a walking thesaurus. So, Jake, for you, I look upanidine, and it means not likely to provoke dissent or offense inoffensive, often deliberately so.
+
+Jason Calacanis: Yeah. Like, like, oh, no.
+
+David Friedberg: I know. You were looking you
+
+Chamath Palihapitiya: were looking at the screen. -- milk. It's like a confused little puppy when he said Anadine. So I just
+
+Jason Calacanis: wanna -- Listen. I gotta the source over here. Also, I
+
+Chamath Palihapitiya: didn't know what it meant, so thank you.
+
+Jason Calacanis: But, seriously, what is the I wanna know the fallout from 2 things. then we're gonna do science corner. So number 1, what is the I've been getting a lot of oatmilk stans emailing different brands of oat milk have been emailing me this week. Just give us an update. Generally speaking, on the Alt Milt milk crowd, and you're in box tomorrow.
+
+Chamath Palihapitiya: Oh, they're trying to they're try definitely trying to bring a doone me. But what these people like, you know what's so funny about these folks? they have no judgment clearly because they can't even say, you know what? It actually tastes much crappier than these alternatives, but I choose to for x, y, z reasons. That I could respect.
+
+It's the oh my god. It's incredible. And it takes so much better. You know? Look at my little mustache.
+
+It's disgusting.
+
+Jason Calacanis: It doesn't foam properly. It tastes like dishwater.
+
+Chamath Palihapitiya: Ridiculous.
+
+Jason Calacanis: And then, Sachs, disgusting. This horrific illustration of you in the new republic I saw. Look like Dolly broke, and they used Dolly to make that illustration. No offense. The illustrator got paid a thousand bucks.
+
+David Friedberg: It was, like -- Has there been
+
+Chamath Palihapitiya: any -- It was pre Ozempic Saxx, I thought.
+
+Jason Calacanis: It was yeah. That's the problem. If you're chubby sacks or chubby Jay Cow, It sucks when people base an illustration on a previous one, but Saginaw is like a deranged sociopath. I mean, you look like
+
+Chamath Palihapitiya: Alex Joe is deceased.
+
+David Sacks: Well, look. They got Elon and Peter up there too. It's such a stupid hit piece.
+
+Jason Calacanis: Elon looks like Hugh Grant. Peter Tiel looks like he's rolling on
+
+David Sacks: -- I'm not -- for one thing.
+
+Jason Calacanis: He's throwing up free works Molly. He's got Molly Jaw.
+
+Chamath Palihapitiya: And, also, he's he he you you show a lot of stubble, which you also don't have.
+
+Jason Calacanis: But look how fat they make you look. Look at the chain. Look like gel. Tell me.
+
+Chamath Palihapitiya: Yeah. The chin is.
+
+Jason Calacanis: Jesus. My lord.
+
+Chamath Palihapitiya: But what
+
+Jason Calacanis: I mean, what going on in terms of the general reaction to the amount of attention you're getting for political commentary now?
+
+Chamath Palihapitiya: Zach David Sachs will be our next secretary of state. Well, no. Well, I'm here for it. I can't wait. I'll go along that David Sachs will be our secretary of state within 2 or 3 presidents.
+
+Huddl face rate. He's gotta make a little more cash.
+
+David Sacks: My my view my views are so out of step with the foreign policy establishment. I wouldn't feel good. -- win.
+
+Chamath Palihapitiya: That's why you that's why I
+
+David Sacks: wouldn't feel the need to be so out there on this issue if the foreign policy establishment was doing its job. If you actually had you know, people from the policy elite going out there saying sensible things about Ukraine, they wouldn't fall on me or other people like --
+
+Jason Calacanis: And China.
+
+David Sacks: like Elon basically posted that straw poll on Twitter, which was totally reasonable, got condemned for it. And then Bill Ackman, actually, who's been in Twitter Spats with me before. We've been on opposite sides of issues, actually came out and retweeted something I wrote as basically being supportive because --
+
+Jason Calacanis: The weird thing
+
+David Sacks: -- -- want this war to escalate out of control.
+
+Jason Calacanis: I think the weird thing is people are there's a group in the in the media class. Other podcasts or other journalists who are saying you have no right to talk about this topic. And I what I said is, you know, he'd listen. Saxon and I could disagree about things on the margin here or there. But I'm glad we're having the discussion.
+
+Shouldn't all Americans be having a discussion about our foreign policy and what our goals are? That's our civic duty is to have this discussion. So whenever you hear the political class, the podcasting class, the coastal elites, which we are part of, When they tell you you can't participate or this person can't participate in the discussion because they're successful in this other aspect of life, that's complete bullshit. Everybody should talk about this and disagree or agree and try to work towards some common understanding.
+
+David Sacks: You're right. So first of all, whenever they say, listen to the experts and you're not an expert. First of all, they're expressing an opinion themselves. And they are expressing equally passionate opinions on the other side about the sole Ukraine war. So first of all, why are they allowed to have an opinion?
+
+So whenever somebody uses this, you're not allowed to have an opinion argument. It's always very selective. and it's only applied to people they disagree with, not to people who are equally an expert on their side of the debate. So that's point number 1. Hold on.
+
+Point number 2 is I've listened to plenty of experts. Okay? I've listened to the IR scholar, John Mearsheimer. I've listened to the International Development economist, Jeffrey Sachs. I've gone back and listened to our former ambassador to the Soviet Union, Jack Matlock.
+
+I've read George Cannon's interviews. I've read Bill Burns, our current CIA Director on this matter. There are plenty of experts who warned that our policy of trying to bring NATO right up to Russia's border would eventually blow up on our faces, it would poison our relations with them and lead to conflict and this war. So there are plenty of authoritative sources going back many years on this topic. And the problem is that the people on the other side of this debate simply want a memory hole.
+
+All of these warnings and deny that they that this war was ever predicted. Because if this war was predicted, it means it could have been avoided. They don't wanna admit that this war could have been avoided.
+
+Jason Calacanis: Or how about this? How about war is messy? Resolving things internationally with dictators can be very and nobody wins in some of these cases. No there's no perfect outcome here. And you could hold in your head 2 things.
+
+Number 1, Putin's a dick too we need to hold the line and make sure it doesn't invade other countries. And number 2, yeah, you probably wanna keep normal relations with these people and negotiate with them to resolve conflict. I'm I'm getting a little concerned about the saber rattling on both sides in China. You know, we're escalating all this chip stuff where escalating and Xi Jinping is taking complete control. I'm wondering who's gonna meet with him?
+
+Who's gonna talk to Xi Jinping about how we could collaborate together? Who's left to talk to him? Tim Cook? There's a
+
+Chamath Palihapitiya: there's a bunch of enforced errors happening in China.
+
+Jason Calacanis: How do we deescalate?
+
+Chamath Palihapitiya: Well, there's a bunch of enforced errors that you have to let play out because they have huge economic implications. So I don't think this I don't think this is a time for again, I think David is generally right. We do not have time for adventures in right now. Because even before we engage in some of these other places, there are a lot of you know, headwinds that are working against for so for example, in China, you have these massive demographic headwinds that are just building. We have to see what the chips act does in terms of follow through to China's ability to expand militarily or technologically.
+
+There are all of these things that that you owe as a citizen of the United States to see some more data on the ground in terms of its empirical impact before you re underwrite a different strategy. Right now, the strategy is working. You know, we we we are observing this, you know, one China policy. I think that's the right thing to do and now let all of this other stuff play out.
+
+David Sacks: say one thing about this -- Yeah. -- the the so what the administration did in banning China from buying from us or any of our allied countries, these advanced semiconductor chips. That's what they did. They not only banned the sale of chips to China. They banned the sale of equipment that can make the chips.
+
+And they even prohibited American citizens and companies from working in China to basically help them set up their own foundries and and chip fabrication. So They are essentially cutting off China from advanced chips. That's the goal here. And, you know, we've talked about on this pod before how chips are the new oil. Right?
+
+These advanced semiconductors are the new oil. So this is almost like an oil embargo of China. If you go back and look at
+
+Chamath Palihapitiya: It is. Yeah.
+
+David Sacks: If you go back and look at history -- --
+
+Jason Calacanis: reason why? The reason why is they don't want these in weapons. Correct? That is stated reason. No.
+
+Chamath Palihapitiya: It's -- Why? -- we think these are gonna go -- I know they
+
+Jason Calacanis: say this. That's the
+
+Chamath Palihapitiya: tip of the spear, but I think the the more impactful mechanism is to prevent an entire layer of infrastructure to be built in China that allows them to advance all of these next generation cyber capabilities, including a whole bunch of things in AI that we wanna make sure that as often and as often as possible is is for the United States and our allies as we choose. So all this next generation silicon will do a lot more to push that forward. And so if you put that in the hands of Chinese technology companies or Chinese government or the Chinese government in the parts that are actually technological, you actually increase the surface area in which you compete. By preventing that technology to go to them, You decrease the service area in which you're competitive, and they are 1 or 2 steps behind and have and are forced to build it themselves.
+
+Jason Calacanis: So, Friedberg, if that happens, Do you think that China escalates and says, well, why are we building iPhones here?
+
+David Friedberg: No. I think China makes decisions a little differently than perhaps US policymakers and foreign policy makers make decisions. they think forward and calculate the series of events that will follow from that decision, whereas we are typically reacting to some event that's happened in the past. not necessarily always thinking through the second and third or third order effects and consequences of our decisions. So the China calculus would likely look something more like if we were to say stop making iPhones here, we would estimate that the US would do the following to retaliate back against us.
+
+And as they do through that calculation, you end up realizing pretty quickly that there isn't as much to gain as there is more to lose by doing that. That would be my guess. I'm no China expert. I'm no foreign policy expert. But from my understanding of how Chinese policymakers do think and do make decisions, it's much more about what's the rational calculated set of outcomes that will emerge and evolve from this decision.
+
+And in my experience talking with people in the United States that are in various communities of influence, it's much more about let's do what we consider to be the right or moral thing right now and in response and in retaliation, and let's do an eye for an eye. So that's why I don't think that they're likely to be the first step in an escalation escalatory ladder. there'd probably be a few more series of provocations before that may happen, at which point it may need to be kind of an inevitable step that they'd have to take.
+
+Jason Calacanis: But What do you think, Zach? So it's
+
+David Sacks: --
+
+Chamath Palihapitiya: I don't know.
+
+David Sacks: I mean, so so so in terms of the motivation for this, I think it's pretty clear. This is an attempt to hobble the Chinese economy, not just the all their weapons programs, but their economy itself and hold them back and slow down their rise and their rapid growth. Now is that a good idea? I mean, I think what this shows is we've moved from sort of economic logic, which is about finding trade surplus and win win scenarios to geopolitical logic, which is about balance of power. And this sort of ban on sales of semiconductors to them it's very much geopolitical because it's hurting our companies, but it hurts China more.
+
+And so it's about it's about it's about increasing our balance of power against them. And now listen. I think you can make the argument that we were overdue to be thinking in terms of great power competition and geopolitical rivalry. And this is an attempt now to correct the bad decisions that were made 20 years ago in terms of how we fed the Chinese economy until it became a pure competitor to the United States. So I think you can make those arguments.
+
+The the thing that concerns me most about it is do do our leaders really have the bandwidth to manage a second front in the sort of gray power competition right now. While we've got Russia and Ukraine going on, on the one hand, Are they really ready to manage an escalation of the competition with China? And to Friedberg point, have they really thought through all the 2nd, 3rd, 4th order consequences of this, have they thought through the incentives this may create on China, for example, to take Taiwan? I mean, if Taiwan is the place that makes all these chips through CSMC, for example. And we have now cut them off.
+
+We have now embargoed them from these chips Does it strengthen China's incentive to go after Taiwan? Does it strengthen China's incentives right now to help Russia in its war in Ukraine in retaliation because they don't wanna see they don't wanna see Russia decisively defeated and then they will solely be in the gun sights of of US Hawks. So I think there's a lot of things that could go wrong here when the US is now escalating geopolitical tensions and competition, not just on one front but on two fronts. And And especially given how weak the US economy is and that we're headed into a major recession next year, it just feels to me like they are, you know, they are kinda putting their foot on the accelerator in terms of geopolitical risk at a time when we're not really in a great spot to be taking those risks.
+
+Jason Calacanis: Well, also on a foreign policy basis, is there no common ground? Are there no things we could collaborate on and work on together? Right? And that that's the thing that seems to be missing in the foreign policy for the last couple of administrations is, are there things that we could be building together? Are there things that we could be working the environment, energy, sustainability, education.
+
+I I don't know what it is, but it felt like, you know, with China for a couple of decades, we we felt like we were working in a very collaborative way. And now it feels like every single instance is adversarial.
+
+David Sacks: Right. Because the problem is that those policies of constructive engagement that you're talking about fed the Chinese tiger until it became a dragon. Yeah. And that's the size of Vanguard or something.
+
+David Friedberg: That that that bigger.
+
+Jason Calacanis: Yeah. Bigger. That's right.
+
+David Sacks: And the US policy establishment in the Pentagon look at the rise of China And they're like, what have we done? We have created a peer competitor to the United States. We need to stop their economic rise. And I think that again, I think there is a geopolitical logic and strategy to what the administration has done. But I question the timing of doing it at the same time.
+
+that we have this unresolved war in Eastern Europe.
+
+Jason Calacanis: Well, it is nice that we're seem to be getting some of this on shoring of chips, and that money is actually starting to flow. It does seem like we're thinking a little bit like, in decades and strategies.
+
+David Sacks: --
+
+Chamath Palihapitiya: the other part, I think Biden and Blink have done a good job. They've done a good job on this right now. They've they've played it well.
+
+David Sacks: Oh, I don't know about that. I I just -- --
+
+Chamath Palihapitiya: later? Come on.
+
+David Sacks: First of all -- You get credit reports. Biden did a horrible job. Hold on a second. Biden did a horrible job.
+
+Jason Calacanis: Vote the tiger.
+
+David Sacks: Hold on. Hold on.
+
+Jason Calacanis: You broke the tiger.
+
+David Sacks: No. Hold on. They I'll tell you where they did a bad job is last year, they had a whole year to negotiate to avoid this Ukraine war from happening. Biden even had a summit with Putin on June 16th last year. They never engaged in diplomacy.
+
+And now they have stacked this geopolitical risk with China on top of the risk they've already created in Ukraine. I this policy may or may not ultimately turn out to be correct. I I said, I can see the strategy behind it, but I do not believe that Biden and Lincoln have thought through the 2nd, 3rd, and 4th order consequences just like Friedberg said. So I think it's a little early to be giving them credit on this.
+
+Jason Calacanis: Alright. Freiber, you got anything in the science corner. We gave we gave Saxx's red meat. and he ripped it to shreds. Now it's time to give you your soy tofu, brother.
+
+David Friedberg: I'll give you guys a quick a quick science corner. Please. Please. So we've talked in the past about the human gut biome, 10,000,000,000,000 bacterial cells living in our gut biome. And it turns out, and there has been this theory for many years.
+
+that a lot of human disease actually originates in the gut. And there's increasingly evidence of how and why this happens. So it turns out that your immune cells can sometimes see a protein on the outside of a bacteria that sits in your gut, and it attacks that bacteria, and it tries to get rid of it. That protein can look a little bit like a human protein at some cell in your body. And so that then triggers an autoimmune reaction.
+
+meaning you are now making these antibodies to proteins that look a lot like your proteins in other parts of your body, And then your cells start to destroy yourself, and you end up having inflammation and disease. And they found evidence of this across a lot of disease states, So just the other day, published in the journal Science Translational Medicine was a really interesting paper by a team that identified a very specific bacteria that we find in the gut that can actually trigger rheumatoid arthritis. And so, you know, I think 2,000,000 Americans have rheumatoid arthritis. It's a really debilitating inflammatory disease, and we never understood where the inflammation comes from. Why is the human immune cell creating antibodies to attack its own protein in the joints of the body?
+
+And now it looks like that the protein that we find in the joints of the body has some overlap or three-dimensional structure that looks similar to the protein we'll find on this very specific gut bacteria that they found, which creates obviously a path now for if we can stop that gut bacteria from proliferating or you know, existing in the gut over time, that can have a reduction in the incidence rate of rheumatoid arthritis.
+
+Chamath Palihapitiya: Did they guess what the mechanism of action was?
+
+David Friedberg: So so this tech this so the mechanism of action is typically what's called generally speaking protein mimicry. And so protein mimicry means that there's some so think about a protein as being, like, you know, a a clumpy rock. And there's some part of the clumpy rock that looks a little bit like the part of another clumpy rock, and that's the protein. Think about that as being the protein on the bacterial cell and the protein in your joint cells. And so your body makes an antibody to that little part of the rock on the bacterial cell to get rid of it, and then it that there's some overlap that looks a little bit like your own cell.
+
+And so that's called protein mimicry. And because of the ability now to do DNA sequencing and now with, you know, some of the alpha full technology, we can actually take the genome from that bacteria, predict the 3 d structure of the proteins created that by that bacteria. and then potentially identify that there is a mimicry or an overlap between our own protein and our cells and the protein of the bacteria which is why we're having autoimmunity, which now our immune cells are not just affecting the bacteria, but
+
+Jason Calacanis: that's -- -- arthritis. We saw for arthritis.
+
+David Friedberg: so there's a lot of disease states that are starting to look like this. So the combination of DNA sequencing and our ability to identify organisms in the gut biome. And, by the way, so much of this goes back to the gut biome. We're finding all these states from lupus to show Grins to rheumatoid arthritis that have some linkage back to some bacteria that shows up in your gut. And so now we can be very targeted potentially about eradicating that bacteria from the gut or, you know, kind of changing our gut biome in a way that ultimately resolves to eliminating that disease risk.
+
+And so it's really fascinating. Yeah.
+
+Jason Calacanis: Chamath, any thoughts on this gut biome?
+
+Chamath Palihapitiya: I mean, I always knew the solution was either and Freeburg's got, you know, horrible.
+
+David Sacks: And his dad are on Uranus.
+
+Chamath Palihapitiya: Oh, a free bird sized credit. Alright.
+
+David Sacks: I'll do
+
+Jason Calacanis: it again.
+
+David Sacks: Do it again. The joke didn't land.
+
+Jason Calacanis: Alright. Here we go. One more time. So, Shamap, any any feedback on this? It was pretty pretty great science going on here.
+
+I mean, it
+
+Chamath Palihapitiya: was always 5050 that the solution was either your guts or your rightness.
+
+David Sacks: Okay. You can't laugh till after you and what you have come on doing.
+
+Chamath Palihapitiya: I saw it coming. It was coming around the corner, and
+
+David Friedberg: the way, I think you guys could leave this
+
+Chamath Palihapitiya: leave leave
+
+null: this all
+
+Jason Calacanis: with the
+
+David Sacks: 3
+
+David Friedberg: of those.
+
+David Sacks: Let's get this right for the fans tomorrow.
+
+Jason Calacanis: Here we go. 3, 2. Alright. Chamath, it seems like very interesting science. They are coming in a science corner.
+
+David Sacks: 5550. 5050.
+
+Chamath Palihapitiya: You're kinda hearing this. You can't even get it out.
+
+null: I mean, you're trying
+
+Chamath Palihapitiya: to get it out of his anus, which poking was,
+
+Jason Calacanis: like, a little term coming out
+
+Chamath Palihapitiya: of his anus when you
+
+Jason Calacanis: get it
+
+Chamath Palihapitiya: out. Oh.
+
+David Sacks: 5050. 5050.
+
+null: It's like the entire size corner is just here for us. to beat up the nerd and throw him in a locker.
+
+Chamath Palihapitiya: Oh my god. My stomach is hurting. Oh my god. Poor lord. Oh, I need it.
+
+null: You ever see Smokey
+
+Jason Calacanis: in the band that when they have the the reels at the end sacks
+
+David Sacks: --
+
+null: The -- like Don Deloees and Burrows. I keep losing it. That's what this has turned.
+
+Jason Calacanis: Oh my god. It's like, I'm gonna say sides quarter and people are gonna just start laughing and thinking about Friedberg zetas. Alright. Listen. Welcome home, Saxx.
+
+We miss you for your week off. And
+
+David Sacks: --
+
+Chamath Palihapitiya: Missed David.
+
+Jason Calacanis: We missed you, David.
+
+David Sacks: Thanks, guys.
+
+Jason Calacanis: Thanks. And we'll see you over on Market Street. No announcements right now. No testimonials. No announcements.
+
+I'll see you at yoga. We're gonna do a doing our sit down.
+
+David Sacks: -- the homeless shelter. We're volunteering today. Right?
+
+Jason Calacanis: Yeah. Voluntary. I'll see you over at the homeless shelter.
+
+David Sacks: You poor.
+
+Jason Calacanis: Save me a yeah. Get get if you could get me a tofu salad with extra tempeh before Friedberg brew. Oh, god. Tempe.
+
+Chamath Palihapitiya: Don't don't go don't get me started on tempting. I'm gonna go. I'm gonna pour all
+
+Jason Calacanis: the oatmeal out. I'm going right to the I'm going right to the cafe. I'm getting the all the oatmeal. Write down the train on the -- There
+
+Chamath Palihapitiya: should be there should be 1 non lactose alternative, and then one milk. -- black coffee
+
+Jason Calacanis: and that black coffee. That's it. If you're lactose intoler yeah. lactose intolerant no. No.
+
+Have one coffee. You have
+
+Chamath Palihapitiya: one thing without lactose. So whatever that wrap
+
+David Friedberg: the can we wrap the show now?
+
+Jason Calacanis: No. We're having too much fun.
+
+Chamath Palihapitiya: What's a what's a what okay. Can you imagine can you imagine the distribution of gluten free snacks? I mean, there you should have a few. but, you know, all kinds of different snacks. And, by the way, the keto snacks have horrendous amounts of chemicals in it.
+
+The Xylitol. What is Xylitol?
+
+Jason Calacanis: Here's an I would here's eat that. Alatol will screw up your stomach, man. Do not have that. That's horrible. Freight, you wanna tell everybody about Zalatol and the impact it has on Uranus?
+
+null: No. It seriously does.
+
+Jason Calacanis: because I think Xyla call us a bait that
+
+null: gives you a lot of gas, and you just keep ripping.
+
+Jason Calacanis: I think it's really Matthew. Here's an idea.
+
+Chamath Palihapitiya: Way to go, Jaikau.
+
+null: Yeah. Now he's gonna turn into
+
+Chamath Palihapitiya: a school show. Dad, well, back to your fault. You were mean to him.
+
+Jason Calacanis: You came up with the Aenus jokes. That was all yours.
+
+Chamath Palihapitiya: I've been doing that joke for 5 years with him. You're a bully. I'm not -- No. No. No.
+
+Jason Calacanis: I'm joking. -- free bird. off the shelf. No. You brigaded him.
+
+Chamath Palihapitiya: We aggregated him on the show.
+
+David Friedberg: We break a dude.
+
+null: We break a dude. We break a dude, Darvesty.
+
+Jason Calacanis: Sorry, Betsy. Alright. 4. the dictator himself, Chemov Palihapitiya going into sweater season. I might know.
+
+It's gonna be a big, big Q Four for us.
+
+Chamath Palihapitiya: Big Q Four.
+
+Jason Calacanis: And the beef? of the Beep Corporation. David Sachs.
+
+David Sacks: Oh, if you mean the general partner of Craft Ventures.
+
+Jason Calacanis: Yes. The general partner of Craft Ventures. That's it. And the queen of Kimois, the prince of panic attacks, the ambassador of Uranus, David Freiberg. We will see you next time.
+
+I'm Jay Cal. It's for his moderate. I love you. That's a
+
+Chamath Palihapitiya: bad one.
+
+Jason Calacanis: Allegar winter's Friedberg. Rainman, David Saffens. We open source it to the fans, and they've just gone crazy lately.
+
+null: what airliners ride.
+
+Jason Calacanis: Besty's our car. Go on the 13th. That is my dog's driveway. We should all just get a room and have one big you, George, because they're all just useless. It's like it's like sexual tension, but they just need to release that mountain.
+
+null: What? You're the bee What? Your feet. What?
+
+Chamath Palihapitiya: Where did you get Murphy's r back?
