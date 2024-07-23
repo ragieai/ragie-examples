@@ -1,10 +1,11 @@
 const apiKey = process.env.RAGIE_API_KEY;
 
 while (true) {
-  const response = await fetch("https://api.ragie.ai/documents", {
-    headers: {
-      authorization: `Bearer ${apiKey}`,
-    },
+  const url = new URL("https://api.ragie.ai/documents");
+  url.searchParams.set("filter", JSON.stringify({ environment: "tutorial" }));
+
+  const response = await fetch(url, {
+    headers: { authorization: `Bearer ${apiKey}` },
   });
 
   if (!response.ok) {
@@ -15,10 +16,6 @@ while (true) {
   const payload = await response.json();
 
   for (const document of payload.documents) {
-    if (document.metadata.environment !== "tutorial") {
-      continue;
-    }
-
     const response = await fetch(
       `https://api.ragie.ai/documents/${document.id}`,
       {
