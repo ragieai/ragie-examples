@@ -30,7 +30,7 @@ for (const file of files) {
   formData.append("file", blob, file);
   formData.append(
     "metadata",
-    JSON.stringify({ title: file, environment: "tutorial" })
+    JSON.stringify({ title: file, scope: "tutorial" })
   );
 
   const options = {

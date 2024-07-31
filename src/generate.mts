@@ -11,7 +11,7 @@ const response = await fetch("https://api.ragie.ai/retrievals", {
     "Content-Type": "application/json",
     Authorization: "Bearer " + ragieApiKey,
   },
-  body: JSON.stringify({ query }),
+  body: JSON.stringify({ query, filters: { scope: "tutorial" } }),
 });
 
 if (!response.ok) {

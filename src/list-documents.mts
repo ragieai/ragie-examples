@@ -1,7 +1,7 @@
 const apiKey = process.env.RAGIE_API_KEY;
 
 const url = new URL("https://api.ragie.ai/documents");
-url.searchParams.set("filter", JSON.stringify({ environment: "tutorial" }));
+url.searchParams.set("filter", JSON.stringify({ scope: "tutorial" }));
 
 const response = await fetch(url, {
   headers: { authorization: `Bearer ${apiKey}` },

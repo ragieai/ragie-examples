@@ -9,10 +9,7 @@ const response = await fetch("https://api.ragie.ai/retrievals", {
   body: JSON.stringify({
     query: "davos",
     filter: {
-      $or: [
-        { environment: { $eq: "tutorial" } },
-        { environment: { $eq: "production" } },
-      ],
+      $or: [{ scope: { $eq: "tutorial" } }, { scope: { $eq: "production" } }],
     },
   }),
 });
