@@ -8,7 +8,8 @@
     "generate": "tsx src/generate.mts",
     "list-documents": "tsx src/list-documents.mts",
     "ingest": "tsx src/ingest.mts",
-    "retrieve": "tsx src/retrieve.mts"
+    "retrieve": "tsx src/retrieve.mts",
+    "get-document-source": "tsx src/get-document-source.mts"
   },
   "author": "Bob Remeika",
   "license": "MIT",
